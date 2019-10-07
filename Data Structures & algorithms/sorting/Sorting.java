@@ -6,7 +6,7 @@ package week2;
 
 /**
  *
- * @author b8045796
+ * @author j1mmo
  */
 public class SearchingArray {
     public SearchingArray(){}
