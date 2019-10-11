@@ -1,9 +1,3 @@
-#include <iostream>
-#include <string>
-#include "BankAccount.h"
-
-using namespace std;
-
 #define MENU_EXIT           0
 #define MENU_VIEW_SUMMARY   1
 #define MENU_DEPOSIT        2
@@ -20,6 +14,9 @@ void withdraw(BankAccount& account);
 
 int main()
 {
+	cout << "Enter name:";
+	string name;
+	getline(std::cin, name);
 	BankAccount account = { 101, "Mike Meredith"};
 
 	int choice;
@@ -65,12 +62,12 @@ int getMenuChoice()
 
 void viewSummary(const BankAccount& account)
 {
-	const int pounds = account.getBalance / 100;
-	const int pence = account.getBalance - (pounds * 100);
+	const int pounds = account.getBalance() / 100;
+	const int pence = account.getBalance() - (pounds * 100);
 
 	cout << "\nAccount Summary\n";
 	cout << "---------------\n";
-	cout << account.getName << "\n";
+	cout << account.getName() << "\n";
 	cout << "----\n";
 	cout << "Balance: \x9C" << pounds << ".";
 	if (pence < 10)
