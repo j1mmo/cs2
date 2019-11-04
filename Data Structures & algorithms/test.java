@@ -1,0 +1,58 @@
+package sortingnames;
+
+//Since we are comparing strings, you need to use StringA.compareToIgnoreCase(StringB)
+//to sort items under alphabetical order
+public class Sorting {
+    
+    //Create a sorting algorithm using Insertion Sort
+    public static void InsertionSort(String[] data)
+    {
+        for(int i = 1; i < data.length; i++){
+            int j = i;
+            while(j > 0 && data[j-1].compareToIgnoreCase(data[j]) > 0){
+                swap(data, j);
+                j--;
+            }
+        }
+    }
+    public static void swap(String[] data,int index){
+        String temp = data[index];
+        data[index] = data[index-1];
+        data[index-1] = temp;
+    }
+    
+    //Create a sorting algorithm using Meger Sort
+    public static void MergeSort(String[] data)
+    {
+    
+    }
+    public static void Sort(String[] data,int l,int r) {
+    if (l>=r) return;
+    int m = (l+r)/2; 
+
+    Sort(data, l, m) ;
+    Sort(data, m+1, r); 
+
+    merge(data, l, m, r);
+    }
+    
+    public static void merge(String[] data,int l, int m, int r){
+        int dataLeft = m-l+1; //Get length of subarray 1
+        int dataRight = r-m; //Get length of subarray 2
+        int i,j,k;
+        String[] a1 = new String[dataLeft];
+        String[] a2 = new String[dataRight];
+        
+        i=0;
+        j=0;
+        k=l;
+        
+        while(i < dataLeft && j < dataRight){
+            
+        }
+        
+    }
+    
+    //Create some other private helper functions.
+    
+}
