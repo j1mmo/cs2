@@ -1,0 +1,1184 @@
+0  11/5  1993           New York Knicks * 111 - 108 * Boston Celtics
+     1  11/5  1993             Orlando Magic * 116 - 96  * Miami Heat
+     2  11/5  1993        Washington Bullets *  82 - 94  * Philadelphia 76ers
+     3  11/5  1993            Indiana Pacers * 110 - 116 * Atlanta Hawks
+     4  11/5  1993             Chicago Bulls * 124 - 123 * Charlotte Hornets
+     5  11/5  1993    Minnesota Timberwolves *  99 - 104 * Detroit Pistons
+     6  11/5  1993           Milwaukee Bucks *  94 - 91  * Cleveland Cavaliers
+     7  11/5  1993           New Jersey Nets *  88 - 110 * Houston Rockets
+     8  11/5  1993     Golden State Warriors *  85 - 91  * San Antonio Spurs
+     9  11/5  1993          Dallas Mavericks *  86 - 102 * Utah Jazz
+    10  11/5  1993    Portland Trail Blazers *  95 - 97  * Los Angeles Clippers
+    11  11/5  1993              Phoenix Suns * 108 - 116 * Los Angeles Lakers
+    12  11/5  1993            Denver Nuggets * 100 - 109 * Sacramento Kings
+    13  11/6  1993            Boston Celtics * 100 - 88  * Washington Bullets
+    14  11/6  1993                Miami Heat *  95 - 71  * Chicago Bulls
+    15  11/6  1993        Philadelphia 76ers *  89 - 114 * Orlando Magic
+    16  11/6  1993         Charlotte Hornets * 120 - 103 * Milwaukee Bucks
+    17  11/6  1993           Detroit Pistons * 113 - 107 * Indiana Pacers
+    18  11/6  1993                 Utah Jazz * 105 - 95  * Minnesota Timberwolves
+    19  11/6  1993     Golden State Warriors *  93 - 89  * Dallas Mavericks
+    20  11/6  1993        Los Angeles Lakers * 101 - 129 * Seattle SuperSonics
+    21  11/7  1993           New Jersey Nets *  99 - 73  * San Antonio Spurs
+    22  11/7  1993           New York Knicks * 115 - 107 * Cleveland Cavaliers
+    23  11/7  1993      Los Angeles Clippers *  97 - 99  * Denver Nuggets
+    24  11/7  1993           Houston Rockets * 106 - 92  * Portland Trail Blazers
+    25  11/7  1993          Sacramento Kings * 110 - 132 * Phoenix Suns
+    26  11/8  1993           Milwaukee Bucks * 100 - 108 * Boston Celtics
+    27  11/8  1993             Atlanta Hawks *  80 - 106 * Chicago Bulls
+    28  11/8  1993       Seattle SuperSonics * 101 - 100 * Utah Jazz
+    29  11/9  1993           New Jersey Nets *  86 - 80  * Dallas Mavericks
+    30  11/9  1993        Philadelphia 76ers *  86 - 95  * New York Knicks
+    31  11/9  1993            Indiana Pacers *  98 - 104 * Orlando Magic
+    32  11/9  1993        Washington Bullets * 118 - 112 * Detroit Pistons
+    33  11/9  1993         Charlotte Hornets * 108 - 113 * Cleveland Cavaliers
+    34  11/9  1993           Houston Rockets * 102 - 93  * Golden State Warriors
+    35  11/9  1993    Minnesota Timberwolves *  95 - 110 * San Antonio Spurs
+    36  11/9  1993              Phoenix Suns * 114 - 99  * Los Angeles Clippers
+    37  11/9  1993    Portland Trail Blazers * 109 - 102 * Los Angeles Lakers
+    38  11/9  1993            Denver Nuggets *  86 - 118 * Seattle SuperSonics
+    39  11/10 1993            Boston Celtics *  91 - 89  * Philadelphia 76ers
+    40  11/10 1993           New York Knicks *  92 - 84  * Washington Bullets
+    41  11/10 1993             Chicago Bulls *  91 - 90  * Milwaukee Bucks
+    42  11/10 1993             Atlanta Hawks *  88 - 91  * Utah Jazz
+    43  11/10 1993         San Antonio Spurs *  93 - 101 * Phoenix Suns
+    44  11/10 1993        Los Angeles Lakers * 101 - 112 * Sacramento Kings
+    45  11/11 1993           Milwaukee Bucks * 103 - 116 * Miami Heat
+    46  11/11 1993             Orlando Magic *  87 - 120 * Charlotte Hornets
+    47  11/11 1993            Indiana Pacers * 108 - 105 * New Jersey Nets
+    48  11/11 1993    Minnesota Timberwolves *  99 - 107 * Houston Rockets
+    49  11/11 1993           Detroit Pistons *  99 - 111 * Los Angeles Clippers
+    50  11/11 1993       Cleveland Cavaliers * 102 - 115 * Seattle SuperSonics
+    51  11/12 1993                Miami Heat * 115 - 100 * Orlando Magic
+    52  11/12 1993           New York Knicks * 103 - 84  * Indiana Pacers
+    53  11/12 1993        Philadelphia 76ers *  93 - 105 * Washington Bullets
+    54  11/12 1993         Charlotte Hornets * 110 - 107 * Boston Celtics
+    55  11/12 1993       Cleveland Cavaliers * 102 - 93  * Golden State Warriors
+    56  11/12 1993          Dallas Mavericks * 115 - 99  * Minnesota Timberwolves
+    57  11/12 1993            Denver Nuggets * 113 - 84  * Los Angeles Lakers
+    58  11/12 1993           Detroit Pistons *  89 - 109 * Utah Jazz
+    59  11/12 1993             Atlanta Hawks *  84 - 94  * Portland Trail Blazers
+    60  11/12 1993         San Antonio Spurs *  91 - 93  * Sacramento Kings
+    61  11/13 1993            Boston Celtics *  98 - 97  * Chicago Bulls
+    62  11/13 1993           Milwaukee Bucks *  86 - 99  * New York Knicks
+    63  11/13 1993        Philadelphia 76ers *  98 - 97  * New Jersey Nets
+    64  11/13 1993              Phoenix Suns *  95 - 99  * Houston Rockets
+    65  11/13 1993                 Utah Jazz * 101 - 100 * Dallas Mavericks
+    66  11/13 1993     Golden State Warriors * 106 - 98  * Denver Nuggets
+    67  11/13 1993         San Antonio Spurs *  90 - 92  * Los Angeles Clippers
+    68  11/13 1993             Atlanta Hawks *  89 - 97  * Seattle SuperSonics
+    69  11/14 1993          Sacramento Kings * 102 - 132 * New Jersey Nets
+    70  11/14 1993       Cleveland Cavaliers * 100 - 107 * Los Angeles Lakers
+    71  11/14 1993           Detroit Pistons * 111 - 114 * Portland Trail Blazers
+    72  11/15 1993           Houston Rockets *  88 - 84  * Philadelphia 76ers
+    73  11/16 1993           New York Knicks * 103 - 90  * Dallas Mavericks
+    74  11/16 1993                 Utah Jazz *  96 - 114 * Orlando Magic
+    75  11/16 1993          Sacramento Kings *  95 - 118 * Atlanta Hawks
+    76  11/16 1993         Charlotte Hornets * 102 - 93  * Indiana Pacers
+    77  11/16 1993       Cleveland Cavaliers * 101 - 96  * Portland Trail Blazers
+    78  11/16 1993           Houston Rockets *  90 - 84  * New Jersey Nets
+    79  11/16 1993    Minnesota Timberwolves * 102 - 98  * Milwaukee Bucks
+    80  11/16 1993         San Antonio Spurs *  86 - 74  * Denver Nuggets
+    81  11/16 1993      Los Angeles Clippers * 114 - 116 * Los Angeles Lakers
+    82  11/16 1993              Phoenix Suns * 116 - 104 * Golden State Warriors
+    83  11/16 1993             Chicago Bulls *  94 - 95  * Seattle SuperSonics
+    84  11/17 1993           New Jersey Nets * 100 - 105 * Boston Celtics
+    85  11/17 1993           Milwaukee Bucks * 104 - 117 * Washington Bullets
+    86  11/17 1993             Atlanta Hawks *  92 - 90  * Philadelphia 76ers
+    87  11/17 1993          Sacramento Kings * 113 - 130 * Charlotte Hornets
+    88  11/17 1993             Orlando Magic *  92 - 98  * Detroit Pistons
+    89  11/17 1993           New York Knicks *  90 - 95  * San Antonio Spurs
+    90  11/17 1993                 Utah Jazz * 115 - 111 * Miami Heat
+    91  11/18 1993       Cleveland Cavaliers *  93 - 100 * Denver Nuggets
+    92  11/18 1993           Houston Rockets *  99 - 83  * Indiana Pacers
+    93  11/18 1993        Los Angeles Lakers *  76 - 103 * Golden State Warriors
+    94  11/18 1993          Dallas Mavericks *  84 - 88  * Los Angeles Clippers
+    95  11/18 1993             Chicago Bulls *  98 - 120 * Portland Trail Blazers
+    96  11/19 1993             Orlando Magic * 106 - 115 * Boston Celtics
+    97  11/19 1993                 Utah Jazz * 115 - 124 * Philadelphia 76ers
+    98  11/19 1993             Atlanta Hawks *  95 - 92  * Miami Heat
+    99  11/19 1993        Washington Bullets * 111 - 127 * Charlotte Hornets
+   100  11/19 1993             Chicago Bulls *  88 - 86  * Los Angeles Lakers
+   101  11/19 1993         San Antonio Spurs *  86 - 95  * Detroit Pistons
+   102  11/19 1993          Sacramento Kings * 108 - 113 * Minnesota Timberwolves
+   103  11/19 1993    Portland Trail Blazers * 109 - 118 * Phoenix Suns
+   104  11/19 1993          Dallas Mavericks *  87 - 116 * Seattle SuperSonics
+   105  11/20 1993             Orlando Magic *  87 - 85  * New Jersey Nets
+   106  11/20 1993                Miami Heat * 102 - 104 * Washington Bullets
+   107  11/20 1993         Charlotte Hornets *  91 - 96  * Atlanta Hawks
+   108  11/20 1993            Boston Celtics *  94 - 100 * Indiana Pacers
+   109  11/20 1993            Denver Nuggets *  90 - 89  * Minnesota Timberwolves
+   110  11/20 1993      Los Angeles Clippers *  86 - 108 * Houston Rockets
+   111  11/20 1993         San Antonio Spurs * 101 - 97  * Milwaukee Bucks
+   112  11/20 1993                 Utah Jazz *  86 - 72  * New York Knicks
+   113  11/20 1993       Cleveland Cavaliers *  96 - 112 * Phoenix Suns
+   114  11/20 1993       Seattle SuperSonics * 112 - 97  * Golden State Warriors
+   115  11/21 1993        Los Angeles Lakers * 102 - 105 * New Jersey Nets
+   116  11/21 1993        Philadelphia 76ers *  89 - 103 * Detroit Pistons
+   117  11/21 1993          Dallas Mavericks *  90 - 103 * Portland Trail Blazers
+   118  11/21 1993             Chicago Bulls * 101 - 103 * Sacramento Kings
+   119  11/22 1993                Miami Heat *  87 - 119 * New York Knicks
+   120  11/22 1993            Indiana Pacers * 102 - 71  * Boston Celtics
+   121  11/22 1993      Los Angeles Clippers *  98 - 110 * San Antonio Spurs
+   122  11/23 1993     Golden State Warriors * 107 - 120 * Orlando Magic
+   123  11/23 1993         Charlotte Hornets *  98 - 118 * Washington Bullets
+   124  11/23 1993        Los Angeles Lakers *  94 - 103 * Atlanta Hawks
+   125  11/23 1993             Chicago Bulls *  93 - 100 * Houston Rockets
+   126  11/23 1993      Los Angeles Clippers * 105 - 98  * Dallas Mavericks
+   127  11/23 1993            Denver Nuggets *  94 - 109 * Portland Trail Blazers
+   128  11/24 1993            Boston Celtics * 118 - 103 * Detroit Pistons
+   129  11/24 1993        Philadelphia 76ers * 108 - 97  * Indiana Pacers
+   130  11/24 1993             Atlanta Hawks *  89 - 85  * Milwaukee Bucks
+   131  11/24 1993        Los Angeles Lakers * 124 - 141 * Charlotte Hornets
+   132  11/24 1993        Washington Bullets * 107 - 113 * Cleveland Cavaliers
+   133  11/24 1993           Houston Rockets *  95 - 93  * Utah Jazz
+   134  11/24 1993           New Jersey Nets * 106 - 107 * Minnesota Timberwolves
+   135  11/24 1993             Chicago Bulls *  84 - 109 * San Antonio Spurs
+   136  11/24 1993     Golden State Warriors * 108 - 102 * Miami Heat
+   137  11/24 1993            Denver Nuggets *  97 - 130 * Phoenix Suns
+   138  11/24 1993       Seattle SuperSonics * 120 - 93  * Sacramento Kings
+   139  11/26 1993                Miami Heat * 101 - 93  * Boston Celtics
+   140  11/26 1993        Washington Bullets * 108 - 124 * Atlanta Hawks
+   141  11/26 1993           Milwaukee Bucks *  99 - 110 * Charlotte Hornets
+   142  11/26 1993             Chicago Bulls * 108 - 85  * Dallas Mavericks
+   143  11/26 1993    Portland Trail Blazers * 101 - 112 * Denver Nuggets
+   144  11/26 1993           Houston Rockets *  92 - 89  * Sacramento Kings
+   145  11/26 1993           New Jersey Nets *  97 - 100 * Utah Jazz
+   146  11/26 1993     Golden State Warriors * 100 - 88  * Philadelphia 76ers
+   147  11/26 1993        Los Angeles Lakers * 102 - 100 * Indiana Pacers
+   148  11/26 1993       Seattle SuperSonics * 110 - 92  * Minnesota Timberwolves
+   149  11/27 1993         Charlotte Hornets * 100 - 114 * Miami Heat
+   150  11/27 1993           Detroit Pistons *  85 - 112 * New York Knicks
+   151  11/27 1993             Orlando Magic * 110 - 112 * Washington Bullets
+   152  11/27 1993        Philadelphia 76ers *  79 - 111 * Atlanta Hawks
+   153  11/27 1993       Seattle SuperSonics *  90 - 101 * Cleveland Cavaliers
+   154  11/27 1993            Boston Celtics *  85 - 89  * Milwaukee Bucks
+   155  11/27 1993           New Jersey Nets *  89 - 111 * Denver Nuggets
+   156  11/27 1993           Houston Rockets *  82 - 80  * Los Angeles Clippers
+   157  11/27 1993          Dallas Mavericks *  80 - 104 * San Antonio Spurs
+   158  11/27 1993        Los Angeles Lakers *  96 - 92  * Minnesota Timberwolves
+   159  11/27 1993                 Utah Jazz *  98 - 120 * Phoenix Suns
+   160  11/28 1993     Golden State Warriors *  91 - 88  * Detroit Pistons
+   161  11/28 1993          Sacramento Kings * 109 - 120 * Portland Trail Blazers
+   162  11/29 1993            Indiana Pacers * 105 - 103 * Sacramento Kings
+   163  11/29 1993           Milwaukee Bucks *  95 - 102 * San Antonio Spurs
+   164  11/29 1993           New Jersey Nets *  94 - 118 * Los Angeles Clippers
+   165  11/30 1993            Boston Celtics * 114 - 122 * Atlanta Hawks
+   166  11/30 1993              Phoenix Suns * 113 - 132 * Chicago Bulls
+   167  11/30 1993           Detroit Pistons *  74 - 92  * Cleveland Cavaliers
+   168  11/30 1993           Milwaukee Bucks *  91 - 102 * Houston Rockets
+   169  11/30 1993            Denver Nuggets *  92 - 103 * Utah Jazz
+   170  11/30 1993          Dallas Mavericks *  91 - 103 * Golden State Warriors
+   171  11/30 1993    Portland Trail Blazers * 123 - 109 * Miami Heat
+   172  11/30 1993       Seattle SuperSonics *  92 - 80  * Philadelphia 76ers
+   173  12/1  1993        Washington Bullets * 113 - 120 * Boston Celtics
+   174  12/1  1993       Cleveland Cavaliers *  82 - 97  * New Jersey Nets
+   175  12/1  1993    Portland Trail Blazers * 106 - 114 * Orlando Magic
+   176  12/1  1993            Indiana Pacers * 120 - 100 * Los Angeles Clippers
+   177  12/1  1993    Minnesota Timberwolves * 111 - 101 * Sacramento Kings
+   178  12/1  1993         San Antonio Spurs *  92 - 88  * Charlotte Hornets
+   179  12/1  1993          Dallas Mavericks *  91 - 124 * Los Angeles Lakers
+   180  12/2  1993           Houston Rockets *  94 - 85  * New York Knicks
+   181  12/2  1993    Minnesota Timberwolves * 103 - 91  * Golden State Warriors
+   182  12/2  1993            Indiana Pacers *  87 - 103 * Utah Jazz
+   183  12/2  1993              Phoenix Suns * 102 - 101 * Detroit Pistons
+   184  12/2  1993       Seattle SuperSonics * 105 - 95  * Washington Bullets
+   185  12/3  1993    Portland Trail Blazers * 108 - 114 * Boston Celtics
+   186  12/3  1993           Houston Rockets * 111 - 133 * Atlanta Hawks
+   187  12/3  1993             Chicago Bulls * 104 - 99  * Miami Heat
+   188  12/3  1993           Milwaukee Bucks * 107 - 106 * Dallas Mavericks
+   189  12/3  1993         Charlotte Hornets *  94 - 102 * Denver Nuggets
+   190  12/3  1993         San Antonio Spurs *  94 - 84  * Orlando Magic
+   191  12/3  1993              Phoenix Suns * 104 - 103 * New Jersey Nets
+   192  12/4  1993          Sacramento Kings * 101 - 123 * New York Knicks
+   193  12/4  1993             Orlando Magic *  87 - 83  * Cleveland Cavaliers
+   194  12/4  1993         San Antonio Spurs *  90 - 82  * Philadelphia 76ers
+   195  12/4  1993         Charlotte Hornets * 108 - 122 * Utah Jazz
+   196  12/4  1993            Indiana Pacers *  92 - 99  * Golden State Warriors
+   197  12/4  1993        Los Angeles Lakers * 109 - 102 * Los Angeles Clippers
+   198  12/4  1993    Portland Trail Blazers * 118 - 105 * Washington Bullets
+   199  12/4  1993    Minnesota Timberwolves *  82 - 99  * Seattle SuperSonics
+   200  12/5  1993          Dallas Mavericks * 110 - 115 * Denver Nuggets
+   201  12/5  1993           Houston Rockets *  99 - 98  * Cleveland Cavaliers
+   202  12/5  1993    Minnesota Timberwolves * 101 - 99  * Los Angeles Lakers
+   203  12/5  1993              Phoenix Suns * 117 - 98  * Milwaukee Bucks
+   204  12/6  1993           New York Knicks *  96 - 103 * Utah Jazz
+   205  12/6  1993        Washington Bullets *  96 - 103 * Seattle SuperSonics
+   206  12/7  1993                Miami Heat * 106 - 101 * Dallas Mavericks
+   207  12/7  1993            Boston Celtics *  90 - 117 * New Jersey Nets
+   208  12/7  1993           New York Knicks *  92 - 78  * Los Angeles Lakers
+   209  12/7  1993           Detroit Pistons *  89 - 91  * Orlando Magic
+   210  12/7  1993      Los Angeles Clippers * 111 - 115 * Chicago Bulls
+   211  12/7  1993    Portland Trail Blazers * 100 - 109 * Cleveland Cavaliers
+   212  12/7  1993          Sacramento Kings *  87 - 105 * Indiana Pacers
+   213  12/7  1993         Charlotte Hornets * 102 - 121 * Houston Rockets
+   214  12/7  1993            Denver Nuggets *  90 - 95  * Golden State Warriors
+   215  12/8  1993          Sacramento Kings * 115 - 129 * Boston Celtics
+   216  12/8  1993             Chicago Bulls *  88 - 95  * Philadelphia 76ers
+   217  12/8  1993             Atlanta Hawks * 105 - 97  * Detroit Pistons
+   218  12/8  1993        Washington Bullets *  91 - 113 * Utah Jazz
+   219  12/8  1993      Los Angeles Clippers * 100 - 97  * Milwaukee Bucks
+   220  12/8  1993    Portland Trail Blazers * 114 - 111 * Minnesota Timberwolves
+   221  12/8  1993       Seattle SuperSonics * 109 - 107 * San Antonio Spurs
+   222  12/9  1993           New York Knicks *  94 - 81  * Golden State Warriors
+   223  12/9  1993         San Antonio Spurs *  95 - 105 * Atlanta Hawks
+   224  12/9  1993       Cleveland Cavaliers *  93 - 95  * Charlotte Hornets
+   225  12/9  1993             Orlando Magic * 105 - 111 * Indiana Pacers
+   226  12/9  1993                Miami Heat * 109 - 115 * Houston Rockets
+   227  12/9  1993        Washington Bullets *  95 - 114 * Phoenix Suns
+   228  12/9  1993       Seattle SuperSonics * 125 - 93  * Dallas Mavericks
+   229  12/10 1993            Boston Celtics * 102 - 117 * Orlando Magic
+   230  12/10 1993             Chicago Bulls * 109 - 105 * New Jersey Nets
+   231  12/10 1993           Milwaukee Bucks *  90 - 88  * Detroit Pistons
+   232  12/10 1993                 Utah Jazz *  98 - 107 * Denver Nuggets
+   233  12/10 1993      Los Angeles Clippers * 108 - 109 * Minnesota Timberwolves
+   234  12/10 1993        Los Angeles Lakers *  99 - 117 * Portland Trail Blazers
+   235  12/10 1993          Sacramento Kings * 109 - 103 * Philadelphia 76ers
+   236  12/11 1993            Boston Celtics *  80 - 111 * Miami Heat
+   237  12/11 1993            Indiana Pacers *  91 - 98  * New York Knicks
+   238  12/11 1993        Philadelphia 76ers *  99 - 86  * Milwaukee Bucks
+   239  12/11 1993             Atlanta Hawks * 116 - 108 * Washington Bullets
+   240  12/11 1993           New Jersey Nets *  99 - 105 * Charlotte Hornets
+   241  12/11 1993       Cleveland Cavaliers *  84 - 93  * Chicago Bulls
+   242  12/11 1993           Detroit Pistons *  92 - 80  * Minnesota Timberwolves
+   243  12/11 1993       Seattle SuperSonics *  75 - 82  * Houston Rockets
+   244  12/11 1993            Denver Nuggets * 100 - 105 * San Antonio Spurs
+   245  12/11 1993                 Utah Jazz * 112 - 115 * Golden State Warriors
+   246  12/11 1993              Phoenix Suns * 114 - 103 * Dallas Mavericks
+   247  12/12 1993             Orlando Magic * 103 - 88  * Portland Trail Blazers
+   248  12/12 1993     Golden State Warriors * 100 - 97  * Los Angeles Lakers
+   249  12/12 1993      Los Angeles Clippers * 112 - 102 * Sacramento Kings
+   250  12/13 1993        Philadelphia 76ers * 107 - 112 * Boston Celtics
+   251  12/13 1993                Miami Heat * 105 - 110 * New Jersey Nets
+   252  12/13 1993         San Antonio Spurs *  87 - 102 * Utah Jazz
+   253  12/13 1993           Milwaukee Bucks * 104 - 112 * Phoenix Suns
+   254  12/14 1993            Denver Nuggets *  84 - 93  * New York Knicks
+   255  12/14 1993             Atlanta Hawks * 103 - 92  * Cleveland Cavaliers
+   256  12/14 1993    Minnesota Timberwolves *  85 - 101 * Charlotte Hornets
+   257  12/14 1993        Washington Bullets *  87 - 106 * Indiana Pacers
+   258  12/14 1993           Houston Rockets *  97 - 88  * Miami Heat
+   259  12/14 1993        Los Angeles Lakers *  99 - 93  * Detroit Pistons
+   260  12/14 1993    Portland Trail Blazers * 100 - 93  * Dallas Mavericks
+   261  12/14 1993             Orlando Magic * 100 - 124 * Seattle SuperSonics
+   262  12/15 1993            Denver Nuggets *  93 - 101 * Philadelphia 76ers
+   263  12/15 1993             Chicago Bulls * 108 - 98  * Boston Celtics
+   264  12/15 1993           Milwaukee Bucks *  96 - 95  * Sacramento Kings
+   265  12/15 1993    Portland Trail Blazers *  91 - 111 * San Antonio Spurs
+   266  12/15 1993                 Utah Jazz *  97 - 95  * Minnesota Timberwolves
+   267  12/15 1993             Orlando Magic * 109 - 110 * Los Angeles Clippers
+   268  12/15 1993     Golden State Warriors * 104 - 110 * Phoenix Suns
+   269  12/16 1993       Cleveland Cavaliers *  89 - 90  * Miami Heat
+   270  12/16 1993         Charlotte Hornets *  95 - 111 * New Jersey Nets
+   271  12/16 1993        Los Angeles Lakers *  85 - 108 * New York Knicks
+   272  12/16 1993           Detroit Pistons *  97 - 95  * Washington Bullets
+   273  12/16 1993            Indiana Pacers *  99 - 81  * Atlanta Hawks
+   274  12/16 1993         San Antonio Spurs * 103 - 89  * Dallas Mavericks
+   275  12/17 1993             Orlando Magic * 104 - 101 * Phoenix Suns
+   276  12/17 1993        Los Angeles Lakers *  94 - 105 * Philadelphia 76ers
+   277  12/17 1993            Denver Nuggets *  96 - 99  * Charlotte Hornets
+   278  12/17 1993           New York Knicks *  86 - 98  * Chicago Bulls
+   279  12/17 1993    Minnesota Timberwolves * 105 - 90  * Los Angeles Clippers
+   280  12/17 1993                 Utah Jazz *  97 - 96  * Boston Celtics
+   281  12/17 1993     Golden State Warriors * 109 - 94  * Sacramento Kings
+   282  12/17 1993           Milwaukee Bucks *  97 - 127 * Seattle SuperSonics
+   283  12/18 1993        Philadelphia 76ers *  90 - 113 * Miami Heat
+   284  12/18 1993            Denver Nuggets *  96 - 102 * Atlanta Hawks
+   285  12/18 1993         San Antonio Spurs *  90 - 102 * Chicago Bulls
+   286  12/18 1993       Cleveland Cavaliers *  92 - 98  * Detroit Pistons
+   287  12/18 1993           New Jersey Nets *  98 - 108 * Indiana Pacers
+   288  12/18 1993          Dallas Mavericks *  93 - 104 * Houston Rockets
+   289  12/18 1993                 Utah Jazz * 102 - 96  * Washington Bullets
+   290  12/18 1993      Los Angeles Clippers * 109 - 116 * Phoenix Suns
+   291  12/18 1993    Minnesota Timberwolves *  95 - 105 * Portland Trail Blazers
+   292  12/18 1993     Golden State Warriors * 111 - 126 * Seattle SuperSonics
+   293  12/19 1993             Orlando Magic *  97 - 91  * Sacramento Kings
+   294  12/19 1993        Los Angeles Lakers *  92 - 122 * Cleveland Cavaliers
+   295  12/19 1993           Milwaukee Bucks *  81 - 93  * Portland Trail Blazers
+   296  12/20 1993          Dallas Mavericks *  92 - 101 * New York Knicks
+   297  12/20 1993           Detroit Pistons *  92 - 121 * Philadelphia 76ers
+   298  12/20 1993        Washington Bullets *  99 - 84  * Minnesota Timberwolves
+   299  12/20 1993         Charlotte Hornets *  97 - 109 * Chicago Bulls
+   300  12/20 1993           Milwaukee Bucks * 105 - 92  * Los Angeles Clippers
+   301  12/20 1993            Indiana Pacers *  94 - 102 * Phoenix Suns
+   302  12/21 1993           New York Knicks *  81 - 85  * New Jersey Nets
+   303  12/21 1993         Charlotte Hornets * 108 - 97  * Detroit Pistons
+   304  12/21 1993                 Utah Jazz *  97 - 112 * Cleveland Cavaliers
+   305  12/21 1993              Phoenix Suns *  95 - 121 * Denver Nuggets
+   306  12/21 1993           Houston Rockets *  90 - 88  * San Antonio Spurs
+   307  12/21 1993        Los Angeles Lakers * 109 - 102 * Orlando Magic
+   308  12/21 1993    Portland Trail Blazers * 100 - 98  * Golden State Warriors
+   309  12/21 1993            Indiana Pacers *  88 - 91  * Seattle SuperSonics
+   310  12/22 1993                Miami Heat *  98 - 90  * Philadelphia 76ers
+   311  12/22 1993             Atlanta Hawks * 108 - 103 * Boston Celtics
+   312  12/22 1993    Minnesota Timberwolves *  98 - 106 * Chicago Bulls
+   313  12/22 1993          Dallas Mavericks *  86 - 96  * Milwaukee Bucks
+   314  12/22 1993        Washington Bullets *  92 - 109 * Los Angeles Clippers
+   315  12/23 1993        Los Angeles Lakers *  92 - 109 * Miami Heat
+   316  12/23 1993             Atlanta Hawks *  75 - 84  * New York Knicks
+   317  12/23 1993           New Jersey Nets * 112 - 122 * Orlando Magic
+   318  12/23 1993            Boston Celtics * 100 - 118 * Charlotte Hornets
+   319  12/23 1993             Chicago Bulls *  81 - 72  * Detroit Pistons
+   320  12/23 1993           Milwaukee Bucks *  88 - 107 * Cleveland Cavaliers
+   321  12/23 1993          Dallas Mavericks *  93 - 89  * Minnesota Timberwolves
+   322  12/23 1993            Denver Nuggets * 106 - 93  * Houston Rockets
+   323  12/23 1993                 Utah Jazz *  96 - 88  * San Antonio Spurs
+   324  12/23 1993      Los Angeles Clippers *  95 - 141 * Golden State Warriors
+   325  12/23 1993              Phoenix Suns *  87 - 86  * Seattle SuperSonics
+   326  12/23 1993            Indiana Pacers *  96 - 108 * Portland Trail Blazers
+   327  12/23 1993        Washington Bullets *  88 - 114 * Sacramento Kings
+   328  12/25 1993             Orlando Magic *  93 - 95  * Chicago Bulls
+   329  12/25 1993           Houston Rockets *  91 - 111 * Phoenix Suns
+   330  12/26 1993          Sacramento Kings *  95 - 109 * Miami Heat
+   331  12/26 1993             Atlanta Hawks *  87 - 91  * New Jersey Nets
+   332  12/26 1993            Indiana Pacers * 103 - 107 * Cleveland Cavaliers
+   333  12/26 1993    Minnesota Timberwolves *  97 - 100 * Denver Nuggets
+   334  12/26 1993           Houston Rockets * 118 - 93  * Los Angeles Lakers
+   335  12/26 1993            Boston Celtics *  85 - 99  * San Antonio Spurs
+   336  12/26 1993     Golden State Warriors * 108 - 106 * Portland Trail Blazers
+   337  12/27 1993          Sacramento Kings * 110 - 122 * Orlando Magic
+   338  12/27 1993        Washington Bullets *  96 - 87  * Milwaukee Bucks
+   339  12/27 1993           Detroit Pistons *  94 - 109 * Charlotte Hornets
+   340  12/27 1993    Minnesota Timberwolves *  93 - 97  * Utah Jazz
+   341  12/27 1993        Philadelphia 76ers *  86 - 96  * Los Angeles Clippers
+   342  12/27 1993            Boston Celtics * 102 - 118 * Phoenix Suns
+   343  12/28 1993           New Jersey Nets *  97 - 95  * New York Knicks
+   344  12/28 1993        Philadelphia 76ers * 107 - 90  * Golden State Warriors
+   345  12/28 1993           Detroit Pistons * 101 - 119 * Atlanta Hawks
+   346  12/28 1993         Charlotte Hornets * 115 - 127 * Cleveland Cavaliers
+   347  12/28 1993            Denver Nuggets *  97 - 85  * Dallas Mavericks
+   348  12/28 1993         San Antonio Spurs *  84 - 76  * Miami Heat
+   349  12/28 1993           Houston Rockets *  97 - 112 * Seattle SuperSonics
+   350  12/29 1993             Atlanta Hawks *  92 - 90  * Orlando Magic
+   351  12/29 1993           New Jersey Nets *  86 - 94  * Chicago Bulls
+   352  12/29 1993            Boston Celtics * 107 - 110 * Utah Jazz
+   353  12/29 1993      Los Angeles Clippers *  98 - 114 * Portland Trail Blazers
+   354  12/29 1993          Sacramento Kings * 103 - 97  * Washington Bullets
+   355  12/29 1993       Seattle SuperSonics *  99 - 92  * Los Angeles Lakers
+   356  12/30 1993            Boston Celtics * 119 - 111 * Los Angeles Clippers
+   357  12/30 1993        Washington Bullets *  84 - 102 * New York Knicks
+   358  12/30 1993             Orlando Magic * 108 - 100 * Miami Heat
+   359  12/30 1993             Chicago Bulls *  95 - 115 * Charlotte Hornets
+   360  12/30 1993       Cleveland Cavaliers * 103 - 105 * Milwaukee Bucks
+   361  12/30 1993     Golden State Warriors *  96 - 101 * Denver Nuggets
+   362  12/30 1993           Houston Rockets * 110 - 104 * Minnesota Timberwolves
+   363  12/30 1993         San Antonio Spurs * 107 - 82  * Indiana Pacers
+   364  12/30 1993        Philadelphia 76ers * 107 - 119 * Phoenix Suns
+   365  12/30 1993          Sacramento Kings *  97 - 91  * Detroit Pistons
+   366   1/2  1994                Miami Heat *  93 - 85  * Detroit Pistons
+   367   1/2  1994           New Jersey Nets * 101 - 97  * Boston Celtics
+   368   1/2  1994        Philadelphia 76ers *  96 - 80  * Denver Nuggets
+   369   1/2  1994         Charlotte Hornets * 124 - 123 * New York Knicks
+   370   1/2  1994        Los Angeles Lakers *  92 - 94  * San Antonio Spurs
+   371   1/2  1994                 Utah Jazz *  92 - 90  * Portland Trail Blazers
+   372   1/2  1994          Dallas Mavericks * 116 - 119 * Sacramento Kings
+   373   1/3  1994          Dallas Mavericks *  85 - 115 * Utah Jazz
+   374   1/4  1994           New Jersey Nets *  83 - 100 * Miami Heat
+   375   1/4  1994             Orlando Magic *  95 - 100 * New York Knicks
+   376   1/4  1994         Charlotte Hornets *  94 - 133 * Atlanta Hawks
+   377   1/4  1994           Detroit Pistons *  91 - 97  * Chicago Bulls
+   378   1/4  1994       Cleveland Cavaliers *  99 - 104 * Indiana Pacers
+   379   1/4  1994    Portland Trail Blazers *  95 - 106 * Houston Rockets
+   380   1/4  1994        Philadelphia 76ers *  84 - 107 * San Antonio Spurs
+   381   1/4  1994          Sacramento Kings * 112 - 115 * Golden State Warriors
+   382   1/4  1994        Los Angeles Lakers * 119 - 118 * Denver Nuggets
+   383   1/4  1994       Seattle SuperSonics * 112 - 106 * Phoenix Suns
+   384   1/5  1994            Boston Celtics * 101 - 96  * Cleveland Cavaliers
+   385   1/5  1994             Chicago Bulls *  90 - 105 * Orlando Magic
+   386   1/5  1994            Indiana Pacers *  95 - 97  * Washington Bullets
+   387   1/5  1994           Milwaukee Bucks * 100 - 91  * New Jersey Nets
+   388   1/5  1994           Houston Rockets * 114 - 102 * Dallas Mavericks
+   389   1/5  1994            Denver Nuggets *  95 - 109 * Minnesota Timberwolves
+   390   1/5  1994              Phoenix Suns * 107 - 91  * Utah Jazz
+   391   1/5  1994        Los Angeles Lakers *  98 - 106 * Sacramento Kings
+   392   1/5  1994       Seattle SuperSonics * 106 - 98  * Los Angeles Clippers
+   393   1/6  1994           New York Knicks *  92 - 86  * Milwaukee Bucks
+   394   1/6  1994         San Antonio Spurs *  98 - 102 * Golden State Warriors
+   395   1/6  1994    Portland Trail Blazers * 116 - 110 * Charlotte Hornets
+   396   1/7  1994                Miami Heat * 110 - 104 * Utah Jazz
+   397   1/7  1994        Philadelphia 76ers * 103 - 93  * Dallas Mavericks
+   398   1/7  1994    Portland Trail Blazers *  85 - 100 * Atlanta Hawks
+   399   1/7  1994             Chicago Bulls *  99 - 92  * Washington Bullets
+   400   1/7  1994       Cleveland Cavaliers *  99 - 85  * Boston Celtics
+   401   1/7  1994         San Antonio Spurs *  84 - 76  * Denver Nuggets
+   402   1/7  1994      Los Angeles Clippers * 108 - 111 * Los Angeles Lakers
+   403   1/7  1994              Phoenix Suns * 110 - 103 * Minnesota Timberwolves
+   404   1/7  1994          Sacramento Kings *  93 - 102 * Seattle SuperSonics
+   405   1/8  1994                Miami Heat * 109 - 90  * Los Angeles Clippers
+   406   1/8  1994           New Jersey Nets *  90 - 87  * Milwaukee Bucks
+   407   1/8  1994        Washington Bullets * 101 - 112 * Orlando Magic
+   408   1/8  1994       Cleveland Cavaliers *  89 - 102 * Atlanta Hawks
+   409   1/8  1994           New York Knicks *  99 - 102 * Charlotte Hornets
+   410   1/8  1994          Dallas Mavericks *  81 - 100 * Chicago Bulls
+   411   1/8  1994            Indiana Pacers * 101 - 92  * Detroit Pistons
+   412   1/8  1994          Sacramento Kings *  98 - 104 * Denver Nuggets
+   413   1/8  1994        Philadelphia 76ers *  93 - 100 * Houston Rockets
+   414   1/8  1994            Boston Celtics *  90 - 108 * Minnesota Timberwolves
+   415   1/8  1994                 Utah Jazz *  87 - 108 * Seattle SuperSonics
+   416   1/9  1994    Portland Trail Blazers *  85 - 99  * New York Knicks
+   417   1/9  1994         San Antonio Spurs *  95 - 89  * Los Angeles Lakers
+   418   1/9  1994     Golden State Warriors * 107 - 122 * Phoenix Suns
+   419   1/10 1994           Houston Rockets * 100 - 115 * Orlando Magic
+   420   1/10 1994            Boston Celtics *  94 - 99  * Philadelphia 76ers
+   421   1/11 1994      Los Angeles Clippers *  77 - 98  * New York Knicks
+   422   1/11 1994        Washington Bullets * 115 - 100 * New Jersey Nets
+   423   1/11 1994         Charlotte Hornets *  95 - 93  * Phoenix Suns
+   424   1/11 1994            Indiana Pacers *  82 - 76  * Milwaukee Bucks
+   425   1/11 1994            Denver Nuggets *  94 - 86  * Detroit Pistons
+   426   1/11 1994    Minnesota Timberwolves *  98 - 108 * San Antonio Spurs
+   427   1/11 1994     Golden State Warriors * 122 - 117 * Los Angeles Lakers
+   428   1/11 1994       Seattle SuperSonics *  99 - 108 * Portland Trail Blazers
+   429   1/11 1994                Miami Heat *  95 - 103 * Sacramento Kings
+   430   1/12 1994      Los Angeles Clippers *  98 - 117 * Philadelphia 76ers
+   431   1/12 1994             Chicago Bulls *  81 - 92  * Atlanta Hawks
+   432   1/12 1994       Cleveland Cavaliers * 118 - 109 * Orlando Magic
+   433   1/12 1994            Denver Nuggets *  96 - 107 * Indiana Pacers
+   434   1/12 1994           Houston Rockets *  94 - 84  * Boston Celtics
+   435   1/12 1994    Minnesota Timberwolves * 103 - 85  * Dallas Mavericks
+   436   1/12 1994                Miami Heat *  92 - 100 * Golden State Warriors
+   437   1/13 1994           New York Knicks *  94 - 80  * Detroit Pistons
+   438   1/13 1994           Houston Rockets * 102 - 120 * Washington Bullets
+   439   1/13 1994           New Jersey Nets *  93 - 104 * Cleveland Cavaliers
+   440   1/13 1994              Phoenix Suns *  88 - 107 * San Antonio Spurs
+   441   1/13 1994                 Utah Jazz * 101 - 83  * Milwaukee Bucks
+   442   1/13 1994         Charlotte Hornets * 104 - 115 * Sacramento Kings
+   443   1/14 1994            Denver Nuggets *  96 - 103 * New Jersey Nets
+   444   1/14 1994            Indiana Pacers * 102 - 104 * Philadelphia 76ers
+   445   1/14 1994          Dallas Mavericks *  96 - 113 * Atlanta Hawks
+   446   1/14 1994         Charlotte Hornets * 130 - 122 * Los Angeles Lakers
+   447   1/14 1994                 Utah Jazz *  91 - 107 * Chicago Bulls
+   448   1/14 1994             Orlando Magic *  92 - 96  * Minnesota Timberwolves
+   449   1/14 1994       Seattle SuperSonics * 100 - 121 * Golden State Warriors
+   450   1/14 1994      Los Angeles Clippers * 102 - 95  * Boston Celtics
+   451   1/14 1994                Miami Heat * 110 - 115 * Portland Trail Blazers
+   452   1/15 1994           Detroit Pistons *  88 - 97  * New York Knicks
+   453   1/15 1994             Orlando Magic * 113 - 105 * Milwaukee Bucks
+   454   1/15 1994      Los Angeles Clippers * 109 - 118 * Washington Bullets
+   455   1/15 1994           Houston Rockets *  76 - 82  * Chicago Bulls
+   456   1/15 1994        Philadelphia 76ers *  67 - 110 * Cleveland Cavaliers
+   457   1/15 1994             Atlanta Hawks *  91 - 94  * Indiana Pacers
+   458   1/15 1994         San Antonio Spurs * 104 - 87  * Dallas Mavericks
+   459   1/15 1994              Phoenix Suns * 119 - 103 * Sacramento Kings
+   460   1/15 1994                Miami Heat *  78 - 97  * Seattle SuperSonics
+   461   1/16 1994            Denver Nuggets * 100 - 105 * Boston Celtics
+   462   1/16 1994                 Utah Jazz *  94 - 99  * New Jersey Nets
+   463   1/16 1994         Charlotte Hornets * 101 - 106 * Portland Trail Blazers
+   464   1/17 1994    Minnesota Timberwolves *  94 - 106 * New York Knicks
+   465   1/17 1994           Milwaukee Bucks *  98 - 102 * Atlanta Hawks
+   466   1/17 1994        Philadelphia 76ers *  91 - 121 * Chicago Bulls
+   467   1/17 1994             Orlando Magic * 107 - 114 * Cleveland Cavaliers
+   468   1/17 1994         San Antonio Spurs * 100 - 87  * Washington Bullets
+   469   1/17 1994                 Utah Jazz * 109 - 94  * Detroit Pistons
+   470   1/17 1994              Phoenix Suns *  99 - 104 * Golden State Warriors
+   471   1/18 1994            Boston Celtics *  95 - 83  * Houston Rockets
+   472   1/18 1994           Detroit Pistons *  91 - 123 * Milwaukee Bucks
+   473   1/18 1994      Los Angeles Clippers * 126 - 124 * Miami Heat
+   474   1/18 1994          Dallas Mavericks * 103 - 113 * Phoenix Suns
+   475   1/18 1994    Portland Trail Blazers * 104 - 103 * Denver Nuggets
+   476   1/18 1994        Los Angeles Lakers *  88 - 103 * Seattle SuperSonics
+   477   1/19 1994            Boston Celtics *  89 - 84  * Dallas Mavericks
+   478   1/19 1994    Minnesota Timberwolves *  91 - 112 * New Jersey Nets
+   479   1/19 1994         San Antonio Spurs * 108 - 120 * New York Knicks
+   480   1/19 1994      Los Angeles Clippers *  96 - 108 * Orlando Magic
+   481   1/19 1994        Philadelphia 76ers * 103 - 115 * Charlotte Hornets
+   482   1/19 1994        Washington Bullets *  83 - 84  * Chicago Bulls
+   483   1/19 1994                Miami Heat *  92 - 109 * Indiana Pacers
+   484   1/19 1994       Cleveland Cavaliers *  92 - 104 * Utah Jazz
+   485   1/19 1994     Golden State Warriors * 120 - 119 * Atlanta Hawks
+   486   1/19 1994       Seattle SuperSonics * 114 - 95  * Sacramento Kings
+   487   1/20 1994           Houston Rockets * 106 - 111 * Denver Nuggets
+   488   1/20 1994         San Antonio Spurs *  83 - 93  * Minnesota Timberwolves
+   489   1/20 1994              Phoenix Suns * 102 - 107 * Los Angeles Lakers
+   490   1/21 1994     Golden State Warriors * 116 - 124 * Boston Celtics
+   491   1/21 1994           New Jersey Nets * 113 - 111 * Atlanta Hawks
+   492   1/21 1994           New York Knicks * 103 - 106 * Orlando Magic
+   493   1/21 1994            Indiana Pacers *  95 - 96  * Chicago Bulls
+   494   1/21 1994       Cleveland Cavaliers * 106 - 90  * Los Angeles Clippers
+   495   1/21 1994           Detroit Pistons * 118 - 98  * Miami Heat
+   496   1/21 1994         Charlotte Hornets * 110 - 113 * Milwaukee Bucks
+   497   1/21 1994          Sacramento Kings *  83 - 112 * Utah Jazz
+   498   1/21 1994        Los Angeles Lakers *  93 - 111 * Portland Trail Blazers
+   499   1/21 1994       Seattle SuperSonics *  91 - 87  * Dallas Mavericks
+   500   1/22 1994     Golden State Warriors *  98 - 124 * New Jersey Nets
+   501   1/22 1994             Orlando Magic * 121 - 112 * Philadelphia 76ers
+   502   1/22 1994           Detroit Pistons *  93 - 98  * Washington Bullets
+   503   1/22 1994             Atlanta Hawks *  98 - 81  * Minnesota Timberwolves
+   504   1/22 1994           Milwaukee Bucks *  80 - 91  * Charlotte Hornets
+   505   1/22 1994             Chicago Bulls *  90 - 81  * Indiana Pacers
+   506   1/22 1994       Cleveland Cavaliers * 119 - 109 * Sacramento Kings
+   507   1/22 1994       Seattle SuperSonics *  91 - 98  * Denver Nuggets
+   508   1/22 1994                 Utah Jazz * 101 - 106 * Houston Rockets
+   509   1/22 1994          Dallas Mavericks *  83 - 103 * San Antonio Spurs
+   510   1/22 1994    Portland Trail Blazers * 117 - 118 * Phoenix Suns
+   511   1/23 1994        Washington Bullets *  80 - 113 * Miami Heat
+   512   1/23 1994        Philadelphia 76ers *  99 - 92  * New York Knicks
+   513   1/24 1994          Dallas Mavericks * 102 - 110 * Boston Celtics
+   514   1/24 1994             Chicago Bulls *  92 - 86  * Detroit Pistons
+   515   1/24 1994           Milwaukee Bucks *  96 - 88  * Indiana Pacers
+   516   1/24 1994       Seattle SuperSonics *  90 - 95  * Utah Jazz
+   517   1/25 1994         Charlotte Hornets *  98 - 119 * Miami Heat
+   518   1/25 1994              Phoenix Suns *  96 - 98  * New York Knicks
+   519   1/25 1994        Washington Bullets *  89 - 112 * Orlando Magic
+   520   1/25 1994             Atlanta Hawks *  95 - 90  * Milwaukee Bucks
+   521   1/25 1994       Cleveland Cavaliers *  93 - 96  * Houston Rockets
+   522   1/25 1994          Sacramento Kings *  91 - 107 * San Antonio Spurs
+   523   1/25 1994      Los Angeles Clippers * 111 - 103 * Seattle SuperSonics
+   524   1/25 1994           New Jersey Nets * 117 - 122 * Portland Trail Blazers
+   525   1/26 1994                Miami Heat *  98 - 103 * Boston Celtics
+   526   1/26 1994             Orlando Magic * 145 - 120 * Charlotte Hornets
+   527   1/26 1994          Dallas Mavericks *  90 - 104 * Philadelphia 76ers
+   528   1/26 1994              Phoenix Suns * 107 - 116 * Atlanta Hawks
+   529   1/26 1994                 Utah Jazz *  98 - 100 * Minnesota Timberwolves
+   530   1/26 1994           Detroit Pistons *  92 - 108 * Golden State Warriors
+   531   1/26 1994            Indiana Pacers *  99 - 103 * Los Angeles Lakers
+   532   1/27 1994           New York Knicks * 103 - 101 * Los Angeles Clippers
+   533   1/27 1994          Dallas Mavericks *  95 - 98  * Washington Bullets
+   534   1/27 1994             Chicago Bulls *  84 - 100 * Cleveland Cavaliers
+   535   1/27 1994            Indiana Pacers * 106 - 113 * Denver Nuggets
+   536   1/27 1994          Sacramento Kings *  97 - 113 * Houston Rockets
+   537   1/27 1994           New Jersey Nets *  92 - 102 * Seattle SuperSonics
+   538   1/28 1994                Miami Heat * 106 - 97  * Orlando Magic
+   539   1/28 1994             Atlanta Hawks * 117 - 105 * Charlotte Hornets
+   540   1/28 1994           Milwaukee Bucks *  96 - 113 * Chicago Bulls
+   541   1/28 1994     Golden State Warriors *  91 - 119 * Utah Jazz
+   542   1/28 1994           Detroit Pistons *  97 - 105 * Los Angeles Lakers
+   543   1/28 1994              Phoenix Suns * 108 - 103 * Philadelphia 76ers
+   544   1/28 1994    Minnesota Timberwolves *  98 - 109 * Portland Trail Blazers
+   545   1/29 1994                Miami Heat * 113 - 98  * Cleveland Cavaliers
+   546   1/29 1994           New Jersey Nets * 120 - 106 * Golden State Warriors
+   547   1/29 1994           New York Knicks * 106 - 92  * Seattle SuperSonics
+   548   1/29 1994             Orlando Magic * 103 - 99  * Washington Bullets
+   549   1/29 1994           Milwaukee Bucks *  89 - 94  * Philadelphia 76ers
+   550   1/29 1994            Indiana Pacers * 119 - 108 * Houston Rockets
+   551   1/29 1994          Sacramento Kings * 101 - 108 * Dallas Mavericks
+   552   1/29 1994           Detroit Pistons * 110 - 128 * Denver Nuggets
+   553   1/29 1994             Atlanta Hawks *  87 - 100 * San Antonio Spurs
+   554   1/29 1994    Minnesota Timberwolves *  93 - 103 * Los Angeles Clippers
+   555   1/30 1994              Phoenix Suns *  94 - 106 * Boston Celtics
+   556   1/30 1994           New York Knicks * 103 - 93  * Portland Trail Blazers
+   557   1/31 1994             Atlanta Hawks *  90 - 85  * Dallas Mavericks
+   558   1/31 1994       Cleveland Cavaliers * 107 - 103 * Detroit Pistons
+   559   1/31 1994     Golden State Warriors * 110 - 96  * Los Angeles Clippers
+   560   2/1  1994                Miami Heat *  88 - 82  * Milwaukee Bucks
+   561   2/1  1994       Seattle SuperSonics * 103 - 104 * New Jersey Nets
+   562   2/1  1994            Boston Celtics *  79 - 114 * New York Knicks
+   563   2/1  1994             Chicago Bulls * 118 - 98  * Denver Nuggets
+   564   2/1  1994        Washington Bullets *  96 - 116 * Indiana Pacers
+   565   2/1  1994        Los Angeles Lakers *  97 - 112 * San Antonio Spurs
+   566   2/1  1994           Houston Rockets *  88 - 104 * Utah Jazz
+   567   2/1  1994      Los Angeles Clippers * 106 - 108 * Phoenix Suns
+   568   2/1  1994    Portland Trail Blazers *  97 - 102 * Sacramento Kings
+   569   2/2  1994           New York Knicks *  85 - 80  * Washington Bullets
+   570   2/2  1994             Orlando Magic *  99 - 118 * Atlanta Hawks
+   571   2/2  1994       Cleveland Cavaliers * 105 - 97  * Philadelphia 76ers
+   572   2/2  1994           Milwaukee Bucks *  90 - 104 * Detroit Pistons
+   573   2/2  1994            Indiana Pacers * 124 - 112 * Charlotte Hornets
+   574   2/2  1994          Dallas Mavericks *  92 - 88  * Minnesota Timberwolves
+   575   2/2  1994            Denver Nuggets *  84 - 97  * Golden State Warriors
+   576   2/2  1994       Seattle SuperSonics *  97 - 84  * Boston Celtics
+   577   2/3  1994             Chicago Bulls *  94 - 85  * Utah Jazz
+   578   2/3  1994        Los Angeles Lakers *  88 - 99  * Houston Rockets
+   579   2/3  1994         San Antonio Spurs *  98 - 97  * Cleveland Cavaliers
+   580   2/3  1994              Phoenix Suns * 105 - 126 * Portland Trail Blazers
+   581   2/4  1994                Miami Heat * 124 - 118 * Charlotte Hornets
+   582   2/4  1994        Washington Bullets * 102 - 95  * Philadelphia 76ers
+   583   2/4  1994           New York Knicks * 102 - 114 * Atlanta Hawks
+   584   2/4  1994             Chicago Bulls * 101 - 99  * Golden State Warriors
+   585   2/4  1994    Minnesota Timberwolves *  93 - 114 * Indiana Pacers
+   586   2/4  1994           Milwaukee Bucks *  98 - 92  * Orlando Magic
+   587   2/4  1994            Denver Nuggets * 108 - 83  * Sacramento Kings
+   588   2/4  1994         San Antonio Spurs * 100 - 91  * Boston Celtics
+   589   2/4  1994        Los Angeles Lakers *  95 - 87  * Dallas Mavericks
+   590   2/4  1994       Seattle SuperSonics * 108 - 84  * Detroit Pistons
+   591   2/5  1994           New Jersey Nets * 107 - 100 * Detroit Pistons
+   592   2/5  1994        Philadelphia 76ers *  96 - 94  * Miami Heat
+   593   2/5  1994             Atlanta Hawks *  93 - 109 * Cleveland Cavaliers
+   594   2/5  1994         Charlotte Hornets * 102 - 111 * Indiana Pacers
+   595   2/5  1994    Portland Trail Blazers * 114 - 128 * Utah Jazz
+   596   2/5  1994          Sacramento Kings * 110 - 122 * Los Angeles Clippers
+   597   2/5  1994       Seattle SuperSonics * 115 - 94  * Milwaukee Bucks
+   598   2/6  1994             Orlando Magic *  77 - 95  * New York Knicks
+   599   2/6  1994          Dallas Mavericks *  89 - 99  * Denver Nuggets
+   600   2/6  1994    Minnesota Timberwolves *  90 - 101 * Houston Rockets
+   601   2/6  1994         San Antonio Spurs * 104 - 102 * New Jersey Nets
+   602   2/6  1994     Golden State Warriors * 106 - 84  * Washington Bullets
+   603   2/6  1994                 Utah Jazz *  90 - 107 * Los Angeles Lakers
+   604   2/6  1994             Chicago Bulls *  88 - 89  * Phoenix Suns
+   605   2/7  1994           New York Knicks *  85 - 96  * Miami Heat
+   606   2/7  1994         Charlotte Hornets * 117 - 125 * Philadelphia 76ers
+   607   2/7  1994           Detroit Pistons *  97 - 141 * Atlanta Hawks
+   608   2/7  1994     Golden State Warriors *  99 - 104 * Indiana Pacers
+   609   2/8  1994             Chicago Bulls * 118 - 89  * Los Angeles Clippers
+   610   2/8  1994           New Jersey Nets * 104 - 112 * Cleveland Cavaliers
+   611   2/8  1994           Houston Rockets *  98 - 106 * Milwaukee Bucks
+   612   2/8  1994    Minnesota Timberwolves * 105 - 108 * Dallas Mavericks
+   613   2/8  1994        Washington Bullets *  90 - 110 * San Antonio Spurs
+   614   2/8  1994                 Utah Jazz *  96 - 95  * Denver Nuggets
+   615   2/8  1994              Phoenix Suns * 104 - 107 * Los Angeles Lakers
+   616   2/8  1994          Sacramento Kings * 100 - 124 * Portland Trail Blazers
+   617   2/9  1994       Cleveland Cavaliers *  95 - 106 * New Jersey Nets
+   618   2/9  1994           New York Knicks * 114 - 79  * Philadelphia 76ers
+   619   2/9  1994             Atlanta Hawks *  87 - 104 * Orlando Magic
+   620   2/9  1994           Detroit Pistons * 102 - 95  * Boston Celtics
+   621   2/9  1994            Indiana Pacers * 102 - 98  * Miami Heat
+   622   2/9  1994     Golden State Warriors * 126 - 116 * Charlotte Hornets
+   623   2/9  1994        Los Angeles Lakers * 103 - 96  * Utah Jazz
+   624   2/9  1994    Minnesota Timberwolves * 106 - 111 * Phoenix Suns
+   625   2/9  1994      Los Angeles Clippers *  95 - 105 * Sacramento Kings
+   626   2/9  1994    Portland Trail Blazers *  94 - 115 * Seattle SuperSonics
+   627   2/10 1994                Miami Heat *  98 - 114 * Atlanta Hawks
+   628   2/10 1994             Chicago Bulls *  97 - 80  * Milwaukee Bucks
+   629   2/10 1994        Washington Bullets *  77 - 87  * Dallas Mavericks
+   630   2/10 1994           Houston Rockets * 104 - 81  * Detroit Pistons
+   631   2/10 1994            Denver Nuggets *  87 - 94  * San Antonio Spurs
+   632   2/10 1994     Golden State Warriors * 113 - 105 * New York Knicks
+   633   2/10 1994          Sacramento Kings * 103 - 84  * Los Angeles Lakers
+   634   2/15 1994           New York Knicks *  83 - 103 * New Jersey Nets
+   635   2/15 1994            Boston Celtics *  92 - 102 * Orlando Magic
+   636   2/15 1994            Denver Nuggets *  99 - 111 * Cleveland Cavaliers
+   637   2/15 1994        Washington Bullets *  93 - 100 * Detroit Pistons
+   638   2/15 1994             Atlanta Hawks *  99 - 103 * Houston Rockets
+   639   2/15 1994           Milwaukee Bucks *  90 - 97  * Minnesota Timberwolves
+   640   2/15 1994            Indiana Pacers * 100 - 109 * San Antonio Spurs
+   641   2/15 1994          Sacramento Kings * 113 - 123 * Golden State Warriors
+   642   2/15 1994      Los Angeles Clippers * 100 - 89  * Los Angeles Lakers
+   643   2/15 1994    Portland Trail Blazers * 106 - 103 * Dallas Mavericks
+   644   2/15 1994        Philadelphia 76ers * 105 - 133 * Seattle SuperSonics
+   645   2/16 1994                Miami Heat * 109 - 101 * Chicago Bulls
+   646   2/16 1994           Houston Rockets *  97 - 102 * Charlotte Hornets
+   647   2/16 1994            Denver Nuggets * 107 - 95  * Milwaukee Bucks
+   648   2/16 1994                 Utah Jazz * 103 - 99  * Los Angeles Clippers
+   649   2/16 1994    Portland Trail Blazers * 100 - 126 * Phoenix Suns
+   650   2/16 1994        Philadelphia 76ers *  92 - 94  * Sacramento Kings
+   651   2/17 1994       Seattle SuperSonics * 112 - 115 * Miami Heat
+   652   2/17 1994           New Jersey Nets * 117 - 98  * Boston Celtics
+   653   2/17 1994           New York Knicks * 102 - 95  * Cleveland Cavaliers
+   654   2/17 1994    Minnesota Timberwolves * 105 - 109 * Washington Bullets
+   655   2/17 1994            Indiana Pacers *  84 - 73  * Dallas Mavericks
+   656   2/17 1994           Detroit Pistons *  96 - 115 * San Antonio Spurs
+   657   2/17 1994             Atlanta Hawks * 115 - 119 * Golden State Warriors
+   658   2/18 1994           New Jersey Nets * 113 - 110 * Washington Bullets
+   659   2/18 1994       Seattle SuperSonics *  93 - 124 * Orlando Magic
+   660   2/18 1994             Atlanta Hawks *  97 - 91  * Los Angeles Clippers
+   661   2/18 1994       Cleveland Cavaliers *  85 - 78  * Minnesota Timberwolves
+   662   2/18 1994           Milwaukee Bucks * 106 - 99  * Charlotte Hornets
+   663   2/18 1994            Denver Nuggets * 109 - 84  * Chicago Bulls
+   664   2/18 1994        Los Angeles Lakers *  96 - 113 * Phoenix Suns
+   665   2/18 1994        Philadelphia 76ers *  93 - 109 * Portland Trail Blazers
+   666   2/18 1994                 Utah Jazz *  81 - 90  * Sacramento Kings
+   667   2/19 1994           Detroit Pistons * 105 - 96  * Dallas Mavericks
+   668   2/19 1994              Phoenix Suns *  88 - 106 * Houston Rockets
+   669   2/19 1994                Miami Heat *  96 - 100 * San Antonio Spurs
+   670   2/19 1994      Los Angeles Clippers *  93 - 100 * Utah Jazz
+   671   2/19 1994            Boston Celtics *  90 - 101 * Golden State Warriors
+   672   2/20 1994        Washington Bullets * 101 - 122 * New Jersey Nets
+   673   2/20 1994             Chicago Bulls *  68 - 86  * New York Knicks
+   674   2/20 1994             Orlando Magic * 109 - 104 * Milwaukee Bucks
+   675   2/20 1994       Cleveland Cavaliers * 105 - 101 * Charlotte Hornets
+   676   2/20 1994       Seattle SuperSonics *  95 - 101 * Indiana Pacers
+   677   2/20 1994             Atlanta Hawks *  92 - 97  * Denver Nuggets
+   678   2/20 1994        Philadelphia 76ers *  95 - 107 * Los Angeles Lakers
+   679   2/20 1994            Boston Celtics *  93 - 102 * Portland Trail Blazers
+   680   2/21 1994        Washington Bullets *  98 - 128 * Miami Heat
+   681   2/21 1994         Charlotte Hornets *  93 - 118 * Chicago Bulls
+   682   2/21 1994          Dallas Mavericks *  98 - 88  * Detroit Pistons
+   683   2/21 1994         San Antonio Spurs * 114 - 89  * Minnesota Timberwolves
+   684   2/21 1994        Philadelphia 76ers *  92 - 119 * Utah Jazz
+   685   2/21 1994          Sacramento Kings *  86 - 112 * Phoenix Suns
+   686   2/22 1994                Miami Heat * 123 - 97  * New Jersey Nets
+   687   2/22 1994    Minnesota Timberwolves *  81 - 114 * Cleveland Cavaliers
+   688   2/22 1994          Dallas Mavericks * 101 - 107 * Indiana Pacers
+   689   2/22 1994            Denver Nuggets *  97 - 98  * Houston Rockets
+   690   2/22 1994     Golden State Warriors * 117 - 113 * Milwaukee Bucks
+   691   2/22 1994      Los Angeles Clippers * 117 - 120 * Portland Trail Blazers
+   692   2/22 1994            Boston Celtics *  93 - 95  * Sacramento Kings
+   693   2/22 1994       Seattle SuperSonics *  93 - 82  * New York Knicks
+   694   2/23 1994           New Jersey Nets * 106 - 102 * Philadelphia 76ers
+   695   2/23 1994            Indiana Pacers *  99 - 103 * Orlando Magic
+   696   2/23 1994       Seattle SuperSonics *  92 - 99  * Atlanta Hawks
+   697   2/23 1994     Golden State Warriors * 100 - 123 * Chicago Bulls
+   698   2/23 1994       Cleveland Cavaliers * 106 - 96  * Washington Bullets
+   699   2/23 1994            Boston Celtics *  94 - 102 * Denver Nuggets
+   700   2/23 1994         San Antonio Spurs * 102 - 106 * Utah Jazz
+   701   2/23 1994    Portland Trail Blazers * 121 - 112 * Los Angeles Clippers
+   702   2/24 1994          Dallas Mavericks * 115 - 110 * Charlotte Hornets
+   703   2/24 1994           New York Knicks *  73 - 93  * Houston Rockets
+   704   2/24 1994              Phoenix Suns * 120 - 101 * Minnesota Timberwolves
+   705   2/24 1994        Los Angeles Lakers *  90 - 102 * Sacramento Kings
+   706   2/25 1994                Miami Heat * 115 - 84  * Philadelphia 76ers
+   707   2/25 1994           New Jersey Nets * 102 - 114 * Orlando Magic
+   708   2/25 1994           Milwaukee Bucks * 100 - 111 * Atlanta Hawks
+   709   2/25 1994             Chicago Bulls * 116 - 94  * Washington Bullets
+   710   2/25 1994     Golden State Warriors *  97 - 107 * Cleveland Cavaliers
+   711   2/25 1994           Detroit Pistons *  90 - 110 * Indiana Pacers
+   712   2/25 1994           New York Knicks *  94 - 102 * Denver Nuggets
+   713   2/25 1994         San Antonio Spurs * 126 - 110 * Los Angeles Lakers
+   714   2/25 1994              Phoenix Suns *  87 - 107 * Utah Jazz
+   715   2/25 1994          Sacramento Kings * 111 - 121 * Los Angeles Clippers
+   716   2/25 1994            Boston Celtics * 102 - 115 * Seattle SuperSonics
+   717   2/26 1994                Miami Heat * 105 - 100 * Detroit Pistons
+   718   2/26 1994             Atlanta Hawks * 118 - 102 * Philadelphia 76ers
+   719   2/26 1994          Dallas Mavericks *  99 - 110 * Cleveland Cavaliers
+   720   2/26 1994            Indiana Pacers *  96 - 86  * Chicago Bulls
+   721   2/26 1994        Washington Bullets * 100 - 115 * Milwaukee Bucks
+   722   2/26 1994                 Utah Jazz *  95 - 85  * Houston Rockets
+   723   2/26 1994         San Antonio Spurs *  96 - 104 * Portland Trail Blazers
+   724   2/27 1994          Dallas Mavericks *  90 - 117 * New Jersey Nets
+   725   2/27 1994         Charlotte Hornets * 103 - 114 * Orlando Magic
+   726   2/27 1994     Golden State Warriors * 100 - 107 * Minnesota Timberwolves
+   727   2/27 1994            Boston Celtics *  97 - 100 * Los Angeles Lakers
+   728   2/27 1994           New York Knicks *  78 - 92  * Phoenix Suns
+   729   2/27 1994            Denver Nuggets *  97 - 104 * Portland Trail Blazers
+   730   2/27 1994       Seattle SuperSonics * 122 - 118 * Los Angeles Clippers
+   731   2/28 1994       Cleveland Cavaliers *  89 - 81  * Chicago Bulls
+   732   2/28 1994           Houston Rockets *  85 - 89  * Utah Jazz
+   733   3/1  1994                Miami Heat * 110 - 102 * Milwaukee Bucks
+   734   3/1  1994           Detroit Pistons *  98 - 108 * New Jersey Nets
+   735   3/1  1994           New York Knicks * 100 - 88  * Sacramento Kings
+   736   3/1  1994        Washington Bullets * 109 - 103 * Philadelphia 76ers
+   737   3/1  1994    Minnesota Timberwolves *  99 - 102 * Atlanta Hawks
+   738   3/1  1994    Portland Trail Blazers *  94 - 106 * Indiana Pacers
+   739   3/1  1994             Orlando Magic *  85 - 97  * Houston Rockets
+   740   3/1  1994      Los Angeles Clippers * 109 - 114 * Golden State Warriors
+   741   3/1  1994         Charlotte Hornets *  96 - 112 * Seattle SuperSonics
+   742   3/2  1994                Miami Heat * 108 - 100 * Minnesota Timberwolves
+   743   3/2  1994       Cleveland Cavaliers * 110 - 96  * Boston Celtics
+   744   3/2  1994                 Utah Jazz * 106 - 96  * San Antonio Spurs
+   745   3/2  1994         Charlotte Hornets * 109 - 118 * Los Angeles Clippers
+   746   3/2  1994        Los Angeles Lakers *  97 - 89  * Chicago Bulls
+   747   3/2  1994    Portland Trail Blazers * 131 - 107 * Detroit Pistons
+   748   3/3  1994           New Jersey Nets *  86 - 97  * New York Knicks
+   749   3/3  1994             Orlando Magic * 107 - 94  * Dallas Mavericks
+   750   3/3  1994             Atlanta Hawks * 109 - 98  * Washington Bullets
+   751   3/3  1994        Philadelphia 76ers *  87 - 95  * Cleveland Cavaliers
+   752   3/3  1994              Phoenix Suns * 107 - 120 * Golden State Warriors
+   753   3/4  1994        Los Angeles Lakers *  99 - 109 * Boston Celtics
+   754   3/4  1994           New Jersey Nets * 110 - 126 * Indiana Pacers
+   755   3/4  1994             Orlando Magic *  89 - 98  * Denver Nuggets
+   756   3/4  1994      Los Angeles Clippers * 113 - 121 * San Antonio Spurs
+   757   3/4  1994    Minnesota Timberwolves * 101 - 106 * Phoenix Suns
+   758   3/4  1994    Portland Trail Blazers * 115 - 96  * Chicago Bulls
+   759   3/5  1994        Philadelphia 76ers *  83 - 120 * Miami Heat
+   760   3/5  1994        Los Angeles Lakers * 118 - 124 * Washington Bullets
+   761   3/5  1994            Indiana Pacers *  88 - 90  * Atlanta Hawks
+   762   3/5  1994           Detroit Pistons * 108 - 117 * Milwaukee Bucks
+   763   3/5  1994      Los Angeles Clippers * 107 - 124 * Houston Rockets
+   764   3/5  1994                 Utah Jazz * 103 - 90  * Dallas Mavericks
+   765   3/5  1994         Charlotte Hornets * 112 - 129 * Golden State Warriors
+   766   3/5  1994          Sacramento Kings *  98 - 114 * Seattle SuperSonics
+   767   3/6  1994        Philadelphia 76ers *  99 - 126 * New Jersey Nets
+   768   3/6  1994             Chicago Bulls *  95 - 99  * Cleveland Cavaliers
+   769   3/6  1994    Minnesota Timberwolves *  97 - 117 * Denver Nuggets
+   770   3/6  1994             Orlando Magic * 103 - 111 * San Antonio Spurs
+   771   3/6  1994                 Utah Jazz * 103 - 92  * Phoenix Suns
+   772   3/6  1994       Seattle SuperSonics * 102 - 85  * Sacramento Kings
+   773   3/7  1994            Boston Celtics * 112 - 104 * Miami Heat
+   774   3/7  1994           New York Knicks *  99 - 85  * Detroit Pistons
+   775   3/7  1994        Los Angeles Lakers * 106 - 84  * Milwaukee Bucks
+   776   3/7  1994     Golden State Warriors * 108 - 137 * Portland Trail Blazers
+   777   3/8  1994            Denver Nuggets *  88 - 95  * Orlando Magic
+   778   3/8  1994              Phoenix Suns *  89 - 97  * Charlotte Hornets
+   779   3/8  1994             Atlanta Hawks *  95 - 116 * Chicago Bulls
+   780   3/8  1994          Sacramento Kings *  82 - 103 * Cleveland Cavaliers
+   781   3/8  1994           Houston Rockets *  99 - 115 * San Antonio Spurs
+   782   3/8  1994    Minnesota Timberwolves *  86 - 100 * Utah Jazz
+   783   3/8  1994      Los Angeles Clippers * 116 - 110 * Dallas Mavericks
+   784   3/8  1994     Golden State Warriors *  98 - 113 * Seattle SuperSonics
+   785   3/9  1994            Denver Nuggets *  80 - 102 * Miami Heat
+   786   3/9  1994           New York Knicks *  90 - 83  * Atlanta Hawks
+   787   3/9  1994             Orlando Magic * 117 - 101 * Philadelphia 76ers
+   788   3/9  1994           New Jersey Nets *  97 - 114 * Detroit Pistons
+   789   3/9  1994            Indiana Pacers * 105 - 94  * Milwaukee Bucks
+   790   3/9  1994              Phoenix Suns * 142 - 106 * Washington Bullets
+   791   3/9  1994                 Utah Jazz *  99 - 122 * Portland Trail Blazers
+   792   3/9  1994          Sacramento Kings * 104 - 96  * Minnesota Timberwolves
+   793   3/10 1994       Seattle SuperSonics *  82 - 87  * Houston Rockets
+   794   3/10 1994    Portland Trail Blazers *  97 - 100 * Golden State Warriors
+   795   3/10 1994          Dallas Mavericks * 101 - 106 * Los Angeles Lakers
+   796   3/11 1994            Indiana Pacers *  73 - 87  * New Jersey Nets
+   797   3/11 1994           New York Knicks *  90 - 83  * Boston Celtics
+   798   3/11 1994        Philadelphia 76ers * 105 - 112 * Orlando Magic
+   799   3/11 1994            Denver Nuggets *  93 - 100 * Washington Bullets
+   800   3/11 1994             Chicago Bulls *  77 - 108 * Atlanta Hawks
+   801   3/11 1994         Charlotte Hornets *  97 - 91  * Minnesota Timberwolves
+   802   3/11 1994       Cleveland Cavaliers *  96 - 98  * Detroit Pistons
+   803   3/11 1994          Dallas Mavericks *  96 - 106 * Los Angeles Clippers
+   804   3/11 1994              Phoenix Suns * 122 - 107 * Miami Heat
+   805   3/11 1994          Sacramento Kings * 108 - 100 * Milwaukee Bucks
+   806   3/11 1994       Seattle SuperSonics * 100 - 99  * San Antonio Spurs
+   807   3/12 1994         Charlotte Hornets *  92 - 117 * New Jersey Nets
+   808   3/12 1994       Cleveland Cavaliers *  86 - 96  * New York Knicks
+   809   3/12 1994             Atlanta Hawks * 104 - 92  * Detroit Pistons
+   810   3/12 1994          Sacramento Kings *  94 - 111 * Chicago Bulls
+   811   3/12 1994           Milwaukee Bucks *  97 - 104 * Indiana Pacers
+   812   3/12 1994         San Antonio Spurs * 109 - 98  * Houston Rockets
+   813   3/13 1994                Miami Heat * 106 - 87  * Boston Celtics
+   814   3/13 1994        Philadelphia 76ers * 114 - 97  * Washington Bullets
+   815   3/13 1994           Houston Rockets * 100 - 93  * Dallas Mavericks
+   816   3/13 1994     Golden State Warriors * 117 - 120 * Los Angeles Clippers
+   817   3/13 1994        Los Angeles Lakers *  90 - 88  * Minnesota Timberwolves
+   818   3/13 1994              Phoenix Suns * 100 - 93  * Orlando Magic
+   819   3/13 1994    Portland Trail Blazers * 102 - 114 * Seattle SuperSonics
+   820   3/14 1994            Boston Celtics * 101 - 107 * Charlotte Hornets
+   821   3/14 1994           Detroit Pistons * 108 - 102 * Sacramento Kings
+   822   3/14 1994         San Antonio Spurs *  88 - 116 * Denver Nuggets
+   823   3/14 1994        Los Angeles Lakers * 101 - 102 * Utah Jazz
+   824   3/15 1994           Milwaukee Bucks *  94 - 101 * Miami Heat
+   825   3/15 1994            Indiana Pacers *  82 - 88  * New York Knicks
+   826   3/15 1994             Orlando Magic *  98 - 108 * Chicago Bulls
+   827   3/15 1994           Detroit Pistons *  89 - 87  * Seattle SuperSonics
+   828   3/15 1994    Portland Trail Blazers *  99 - 105 * Houston Rockets
+   829   3/15 1994        Philadelphia 76ers *  87 - 96  * Minnesota Timberwolves
+   830   3/15 1994        Washington Bullets *  93 - 123 * Golden State Warriors
+   831   3/15 1994                 Utah Jazz * 105 - 108 * Los Angeles Clippers
+   832   3/15 1994              Phoenix Suns * 119 - 106 * Cleveland Cavaliers
+   833   3/16 1994          Dallas Mavericks *  98 - 100 * Orlando Magic
+   834   3/16 1994             Atlanta Hawks *  79 - 92  * Charlotte Hornets
+   835   3/16 1994             Chicago Bulls * 101 - 100 * Boston Celtics
+   836   3/16 1994              Phoenix Suns *  98 - 109 * Indiana Pacers
+   837   3/16 1994    Portland Trail Blazers * 102 - 110 * San Antonio Spurs
+   838   3/16 1994        Washington Bullets *  94 - 129 * Los Angeles Lakers
+   839   3/16 1994           New Jersey Nets * 111 - 132 * Sacramento Kings
+   840   3/17 1994          Dallas Mavericks *  98 - 115 * Miami Heat
+   841   3/17 1994           Milwaukee Bucks *  83 - 105 * New York Knicks
+   842   3/17 1994            Denver Nuggets * 102 - 99  * Los Angeles Clippers
+   843   3/17 1994     Golden State Warriors *  99 - 112 * Houston Rockets
+   844   3/17 1994       Seattle SuperSonics * 107 - 92  * Minnesota Timberwolves
+   845   3/18 1994           New Jersey Nets * 102 - 90  * Los Angeles Lakers
+   846   3/18 1994       Cleveland Cavaliers *  96 - 113 * Orlando Magic
+   847   3/18 1994             Atlanta Hawks *  81 - 78  * Indiana Pacers
+   848   3/18 1994                 Utah Jazz *  78 - 82  * Charlotte Hornets
+   849   3/18 1994       Seattle SuperSonics *  84 - 87  * Chicago Bulls
+   850   3/18 1994           Detroit Pistons * 114 - 113 * Phoenix Suns
+   851   3/18 1994    Minnesota Timberwolves * 100 - 98  * Philadelphia 76ers
+   852   3/18 1994        Washington Bullets * 104 - 122 * Portland Trail Blazers
+   853   3/18 1994          Sacramento Kings * 115 - 103 * Denver Nuggets
+   854   3/19 1994       Cleveland Cavaliers *  95 - 106 * Miami Heat
+   855   3/19 1994            Boston Celtics *  91 - 105 * New York Knicks
+   856   3/19 1994                 Utah Jazz * 103 - 107 * Indiana Pacers
+   857   3/19 1994           Detroit Pistons *  88 - 106 * Houston Rockets
+   858   3/19 1994          Sacramento Kings * 100 - 107 * San Antonio Spurs
+   859   3/19 1994     Golden State Warriors * 116 - 107 * Dallas Mavericks
+   860   3/19 1994           New Jersey Nets *  93 - 105 * Phoenix Suns
+   861   3/20 1994             Atlanta Hawks * 101 - 80  * Boston Celtics
+   862   3/20 1994             Chicago Bulls *  90 - 80  * Minnesota Timberwolves
+   863   3/20 1994        Philadelphia 76ers * 101 - 103 * Milwaukee Bucks
+   864   3/20 1994        Washington Bullets *  99 - 132 * Denver Nuggets
+   865   3/20 1994    Portland Trail Blazers * 110 - 114 * Los Angeles Clippers
+   866   3/20 1994             Orlando Magic *  91 - 97  * Los Angeles Lakers
+   867   3/20 1994       Seattle SuperSonics * 124 - 115 * Charlotte Hornets
+   868   3/21 1994                 Utah Jazz *  96 - 100 * Atlanta Hawks
+   869   3/21 1994        Washington Bullets * 112 - 128 * Houston Rockets
+   870   3/21 1994                Miami Heat *  81 - 84  * Los Angeles Lakers
+   871   3/22 1994      Los Angeles Clippers * 102 - 105 * New Jersey Nets
+   872   3/22 1994             Chicago Bulls *  78 - 87  * New York Knicks
+   873   3/22 1994        Philadelphia 76ers *  91 - 125 * Charlotte Hornets
+   874   3/22 1994            Indiana Pacers *  61 - 93  * Cleveland Cavaliers
+   875   3/22 1994           Milwaukee Bucks *  94 - 108 * Denver Nuggets
+   876   3/22 1994           Houston Rockets *  81 - 83  * Minnesota Timberwolves
+   877   3/22 1994             Orlando Magic * 116 - 117 * Golden State Warriors
+   878   3/22 1994                Miami Heat * 118 - 124 * Phoenix Suns
+   879   3/22 1994    Portland Trail Blazers *  96 - 94  * Sacramento Kings
+   880   3/22 1994         San Antonio Spurs *  89 - 105 * Seattle SuperSonics
+   881   3/23 1994             Orlando Magic *  98 - 93  * Utah Jazz
+   882   3/23 1994         Charlotte Hornets *  92 - 100 * Atlanta Hawks
+   883   3/23 1994             Chicago Bulls *  99 - 87  * Philadelphia 76ers
+   884   3/23 1994      Los Angeles Clippers * 107 - 111 * Detroit Pistons
+   885   3/23 1994       Cleveland Cavaliers *  77 - 78  * Indiana Pacers
+   886   3/23 1994        Los Angeles Lakers * 112 - 109 * Dallas Mavericks
+   887   3/24 1994            Boston Celtics * 123 - 117 * Washington Bullets
+   888   3/24 1994           New York Knicks * 123 - 106 * Minnesota Timberwolves
+   889   3/24 1994                Miami Heat * 101 - 113 * Denver Nuggets
+   890   3/24 1994        Los Angeles Lakers * 107 - 113 * Houston Rockets
+   891   3/24 1994         San Antonio Spurs * 107 - 91  * Sacramento Kings
+   892   3/24 1994           Milwaukee Bucks * 112 - 114 * Golden State Warriors
+   893   3/24 1994              Phoenix Suns * 106 - 116 * Seattle SuperSonics
+   894   3/25 1994             Chicago Bulls *  87 - 110 * New Jersey Nets
+   895   3/25 1994           New York Knicks *  85 - 82  * Indiana Pacers
+   896   3/25 1994         Charlotte Hornets * 106 - 92  * Detroit Pistons
+   897   3/25 1994       Cleveland Cavaliers * 105 - 88  * Philadelphia 76ers
+   898   3/25 1994           Milwaukee Bucks *  96 - 103 * Utah Jazz
+   899   3/25 1994      Los Angeles Clippers *  97 - 94  * Atlanta Hawks
+   900   3/25 1994          Dallas Mavericks *  94 - 99  * Phoenix Suns
+   901   3/25 1994          Sacramento Kings *  91 - 100 * Portland Trail Blazers
+   902   3/26 1994           New Jersey Nets * 103 - 100 * Washington Bullets
+   903   3/26 1994                Miami Heat *  90 - 100 * Atlanta Hawks
+   904   3/26 1994      Los Angeles Clippers * 109 - 121 * Charlotte Hornets
+   905   3/26 1994            Indiana Pacers *  88 - 90  * Chicago Bulls
+   906   3/26 1994          Dallas Mavericks * 101 - 112 * Denver Nuggets
+   907   3/26 1994                 Utah Jazz *  83 - 98  * Houston Rockets
+   908   3/26 1994         San Antonio Spurs * 112 - 101 * Golden State Warriors
+   909   3/26 1994    Minnesota Timberwolves *  93 - 113 * Seattle SuperSonics
+   910   3/27 1994        Philadelphia 76ers * 122 - 124 * Boston Celtics
+   911   3/27 1994           New York Knicks * 111 - 90  * Orlando Magic
+   912   3/27 1994           Detroit Pistons *  99 - 111 * Cleveland Cavaliers
+   913   3/27 1994         San Antonio Spurs * 107 - 95  * Portland Trail Blazers
+   914   3/27 1994           Milwaukee Bucks * 101 - 110 * Los Angeles Lakers
+   915   3/27 1994           Houston Rockets *  98 - 113 * Phoenix Suns
+   916   3/28 1994      Los Angeles Clippers *  93 - 126 * Indiana Pacers
+   917   3/28 1994            Denver Nuggets *  97 - 111 * Seattle SuperSonics
+   918   3/29 1994            Boston Celtics * 119 - 107 * Milwaukee Bucks
+   919   3/29 1994         Charlotte Hornets *  95 - 106 * New York Knicks
+   920   3/29 1994        Washington Bullets * 101 - 120 * Orlando Magic
+   921   3/29 1994           New Jersey Nets *  98 - 101 * Atlanta Hawks
+   922   3/29 1994        Philadelphia 76ers * 103 - 106 * Chicago Bulls
+   923   3/29 1994      Los Angeles Clippers *  96 - 106 * Cleveland Cavaliers
+   924   3/29 1994           Detroit Pistons * 123 - 115 * Miami Heat
+   925   3/29 1994           Houston Rockets * 122 - 101 * Sacramento Kings
+   926   3/29 1994         San Antonio Spurs * 117 - 92  * Dallas Mavericks
+   927   3/29 1994     Golden State Warriors * 116 - 113 * Utah Jazz
+   928   3/29 1994    Minnesota Timberwolves *  89 - 91  * Los Angeles Lakers
+   929   3/29 1994       Seattle SuperSonics * 114 - 100 * Portland Trail Blazers
+   930   3/30 1994                Miami Heat * 101 - 111 * New Jersey Nets
+   931   3/30 1994            Indiana Pacers * 103 - 99  * Boston Celtics
+   932   3/30 1994           Houston Rockets * 114 - 104 * Golden State Warriors
+   933   3/31 1994             Atlanta Hawks * 106 - 102 * Sacramento Kings
+   934   3/31 1994    Portland Trail Blazers * 109 - 111 * Milwaukee Bucks
+   935   3/31 1994       Cleveland Cavaliers *  85 - 101 * San Antonio Spurs
+   936   3/31 1994              Phoenix Suns * 117 - 102 * Los Angeles Clippers
+   937   3/31 1994        Los Angeles Lakers *  92 - 95  * Seattle SuperSonics
+   938   4/1  1994            Indiana Pacers *  91 - 101 * Miami Heat
+   939   4/1  1994             Orlando Magic *  98 - 96  * New Jersey Nets
+   940   4/1  1994        Washington Bullets *  99 - 95  * Boston Celtics
+   941   4/1  1994         Charlotte Hornets * 106 - 104 * Dallas Mavericks
+   942   4/1  1994           Detroit Pistons *  95 - 102 * Chicago Bulls
+   943   4/1  1994    Minnesota Timberwolves * 109 - 146 * Golden State Warriors
+   944   4/1  1994           Houston Rockets *  88 - 101 * Los Angeles Lakers
+   945   4/1  1994             Atlanta Hawks *  87 - 93  * Phoenix Suns
+   946   4/1  1994    Portland Trail Blazers * 111 - 100 * Philadelphia 76ers
+   947   4/2  1994                Miami Heat *  87 - 110 * New York Knicks
+   948   4/2  1994           Milwaukee Bucks *  96 - 104 * Washington Bullets
+   949   4/2  1994       Cleveland Cavaliers *  95 - 88  * Dallas Mavericks
+   950   4/2  1994             Orlando Magic * 113 - 128 * Indiana Pacers
+   951   4/2  1994         Charlotte Hornets * 111 - 117 * San Antonio Spurs
+   952   4/2  1994            Denver Nuggets *  91 - 101 * Utah Jazz
+   953   4/2  1994    Minnesota Timberwolves *  87 - 102 * Sacramento Kings
+   954   4/2  1994     Golden State Warriors * 109 - 119 * Seattle SuperSonics
+   955   4/3  1994            Boston Celtics * 135 - 112 * Philadelphia 76ers
+   956   4/3  1994             Chicago Bulls *  96 - 93  * Detroit Pistons
+   957   4/3  1994           Houston Rockets * 106 - 98  * Los Angeles Clippers
+   958   4/3  1994             Atlanta Hawks *  89 - 102 * Los Angeles Lakers
+   959   4/3  1994            Denver Nuggets *  98 - 108 * Phoenix Suns
+   960   4/3  1994    Portland Trail Blazers * 109 - 105 * New Jersey Nets
+   961   4/5  1994           New York Knicks *  86 - 100 * Miami Heat
+   962   4/5  1994            Boston Celtics *  94 - 120 * New Jersey Nets
+   963   4/5  1994           Milwaukee Bucks *  97 - 104 * Orlando Magic
+   964   4/5  1994        Washington Bullets *  88 - 114 * Chicago Bulls
+   965   4/5  1994         Charlotte Hornets *  99 - 105 * Cleveland Cavaliers
+   966   4/5  1994           Detroit Pistons *  89 - 105 * Indiana Pacers
+   967   4/5  1994          Dallas Mavericks *  88 - 80  * Sacramento Kings
+   968   4/5  1994     Golden State Warriors * 106 - 101 * San Antonio Spurs
+   969   4/5  1994      Los Angeles Clippers *  92 - 91  * Denver Nuggets
+   970   4/5  1994              Phoenix Suns * 113 - 135 * Portland Trail Blazers
+   971   4/5  1994                 Utah Jazz *  79 - 86  * Seattle SuperSonics
+   972   4/6  1994                Miami Heat * 114 - 103 * Washington Bullets
+   973   4/6  1994           Milwaukee Bucks * 114 - 115 * Philadelphia 76ers
+   974   4/6  1994            Boston Celtics * 107 - 111 * Atlanta Hawks
+   975   4/6  1994            Indiana Pacers *  90 - 129 * Charlotte Hornets
+   976   4/6  1994      Los Angeles Clippers * 100 - 110 * Minnesota Timberwolves
+   977   4/6  1994          Sacramento Kings * 123 - 128 * Los Angeles Lakers
+   978   4/6  1994         San Antonio Spurs *  95 - 107 * Phoenix Suns
+   979   4/7  1994             Atlanta Hawks *  87 - 93  * New Jersey Nets
+   980   4/7  1994       Cleveland Cavaliers *  94 - 97  * New York Knicks
+   981   4/7  1994       Seattle SuperSonics *  90 - 104 * Denver Nuggets
+   982   4/7  1994     Golden State Warriors * 102 - 134 * Houston Rockets
+   983   4/7  1994          Dallas Mavericks *  82 - 99  * Utah Jazz
+   984   4/8  1994    Minnesota Timberwolves * 108 - 112 * Boston Celtics
+   985   4/8  1994           Detroit Pistons * 103 - 117 * Orlando Magic
+   986   4/8  1994           New York Knicks *  97 - 100 * Philadelphia 76ers
+   987   4/8  1994       Cleveland Cavaliers *  98 - 108 * Washington Bullets
+   988   4/8  1994           New Jersey Nets *  78 - 99  * Charlotte Hornets
+   989   4/8  1994             Chicago Bulls * 100 - 94  * Indiana Pacers
+   990   4/8  1994            Denver Nuggets * 112 - 99  * Los Angeles Lakers
+   991   4/8  1994              Phoenix Suns * 101 - 104 * Sacramento Kings
+   992   4/8  1994          Dallas Mavericks *  93 - 111 * Seattle SuperSonics
+   993   4/9  1994             Orlando Magic * 125 - 105 * Miami Heat
+   994   4/9  1994        Washington Bullets * 103 - 117 * Atlanta Hawks
+   995   4/9  1994         Charlotte Hornets * 127 - 122 * Philadelphia 76ers
+   996   4/9  1994           Milwaukee Bucks *  99 - 125 * Chicago Bulls
+   997   4/9  1994         San Antonio Spurs *  89 - 100 * Houston Rockets
+   998   4/9  1994      Los Angeles Clippers * 104 - 128 * Utah Jazz
+   999   4/9  1994     Golden State Warriors * 117 - 105 * Minnesota Timberwolves
+  1000   4/9  1994        Los Angeles Lakers * 104 - 112 * Portland Trail Blazers
+  1001   4/10 1994            Boston Celtics * 116 - 111 * Detroit Pistons
+  1002   4/10 1994           New York Knicks *  88 - 107 * New Jersey Nets
+  1003   4/10 1994           Houston Rockets *  93 - 92  * Denver Nuggets
+  1004   4/10 1994              Phoenix Suns * 108 - 111 * Seattle SuperSonics
+  1005   4/11 1994             Orlando Magic * 108 - 100 * New York Knicks
+  1006   4/11 1994                Miami Heat *  97 - 99  * Charlotte Hornets
+  1007   4/11 1994            Boston Celtics * 108 - 121 * Indiana Pacers
+  1008   4/11 1994    Minnesota Timberwolves *  89 - 101 * San Antonio Spurs
+  1009   4/11 1994          Dallas Mavericks * 108 - 122 * Golden State Warriors
+  1010   4/11 1994      Los Angeles Clippers *  97 - 118 * Sacramento Kings
+  1011   4/12 1994        Philadelphia 76ers * 134 - 107 * Detroit Pistons
+  1012   4/12 1994           New Jersey Nets * 105 - 111 * Chicago Bulls
+  1013   4/12 1994           Milwaukee Bucks *  91 - 119 * Cleveland Cavaliers
+  1014   4/12 1994          Dallas Mavericks * 108 - 107 * Portland Trail Blazers
+  1015   4/12 1994    Minnesota Timberwolves *  89 - 98  * Houston Rockets
+  1016   4/12 1994          Sacramento Kings *  91 - 126 * Utah Jazz
+  1017   4/12 1994     Golden State Warriors * 128 - 117 * Los Angeles Lakers
+  1018   4/12 1994              Phoenix Suns * 107 - 102 * Denver Nuggets
+  1019   4/12 1994       Seattle SuperSonics * 116 - 101 * Los Angeles Clippers
+  1020   4/13 1994           Detroit Pistons *  96 - 109 * Boston Celtics
+  1021   4/13 1994           New Jersey Nets * 107 - 105 * Milwaukee Bucks
+  1022   4/13 1994       Cleveland Cavaliers *  95 - 110 * Atlanta Hawks
+  1023   4/13 1994             Chicago Bulls *  96 - 90  * Miami Heat
+  1024   4/13 1994            Indiana Pacers * 115 - 87  * Philadelphia 76ers
+  1025   4/13 1994            Denver Nuggets *  83 - 78  * San Antonio Spurs
+  1026   4/13 1994        Los Angeles Lakers *  88 - 117 * Phoenix Suns
+  1027   4/14 1994           New York Knicks * 111 - 106 * Washington Bullets
+  1028   4/14 1994         Charlotte Hornets * 112 - 108 * Orlando Magic
+  1029   4/14 1994          Sacramento Kings *  99 - 104 * Houston Rockets
+  1030   4/14 1994         San Antonio Spurs *  90 - 101 * Utah Jazz
+  1031   4/14 1994    Portland Trail Blazers * 108 - 113 * Golden State Warriors
+  1032   4/14 1994      Los Angeles Clippers * 101 - 150 * Seattle SuperSonics
+  1033   4/15 1994             Orlando Magic * 110 - 113 * Boston Celtics
+  1034   4/15 1994           Detroit Pistons * 114 - 119 * New Jersey Nets
+  1035   4/15 1994        Washington Bullets *  90 - 103 * New York Knicks
+  1036   4/15 1994             Atlanta Hawks * 105 - 96  * Milwaukee Bucks
+  1037   4/15 1994             Chicago Bulls *  88 - 85  * Charlotte Hornets
+  1038   4/15 1994                Miami Heat * 100 - 109 * Cleveland Cavaliers
+  1039   4/15 1994            Indiana Pacers * 130 - 112 * Minnesota Timberwolves
+  1040   4/15 1994            Denver Nuggets *  97 - 99  * Dallas Mavericks
+  1041   4/15 1994    Portland Trail Blazers * 105 - 100 * Los Angeles Lakers
+  1042   4/16 1994        Philadelphia 76ers *  94 - 123 * Atlanta Hawks
+  1043   4/16 1994       Cleveland Cavaliers *  91 - 90  * Milwaukee Bucks
+  1044   4/16 1994                 Utah Jazz * 105 - 109 * Golden State Warriors
+  1045   4/16 1994        Los Angeles Lakers * 103 - 108 * Los Angeles Clippers
+  1046   4/16 1994              Phoenix Suns *  96 - 94  * San Antonio Spurs
+  1047   4/16 1994          Sacramento Kings * 106 - 98  * Dallas Mavericks
+  1048   4/16 1994           Houston Rockets *  97 - 100 * Seattle SuperSonics
+  1049   4/17 1994           New Jersey Nets * 110 - 103 * Miami Heat
+  1050   4/17 1994             Chicago Bulls * 101 - 118 * Orlando Magic
+  1051   4/17 1994            Boston Celtics * 100 - 142 * Washington Bullets
+  1052   4/17 1994           New York Knicks *  91 - 107 * Charlotte Hornets
+  1053   4/17 1994            Indiana Pacers * 104 - 99  * Detroit Pistons
+  1054   4/17 1994            Denver Nuggets *  99 - 88  * Minnesota Timberwolves
+  1055   4/17 1994           Houston Rockets * 119 - 110 * Portland Trail Blazers
+  1056   4/18 1994             Atlanta Hawks *  70 - 87  * Chicago Bulls
+  1057   4/18 1994     Golden State Warriors * 134 - 131 * Los Angeles Clippers
+  1058   4/18 1994              Phoenix Suns * 106 - 97  * Dallas Mavericks
+  1059   4/19 1994           Milwaukee Bucks * 112 - 120 * Boston Celtics
+  1060   4/19 1994    Minnesota Timberwolves *  99 - 126 * Miami Heat
+  1061   4/19 1994           New Jersey Nets * 115 - 110 * Philadelphia 76ers
+  1062   4/19 1994             Orlando Magic * 132 - 104 * Detroit Pistons
+  1063   4/19 1994             Atlanta Hawks *  87 - 84  * New York Knicks
+  1064   4/19 1994            Indiana Pacers * 111 - 110 * Washington Bullets
+  1065   4/19 1994        Los Angeles Lakers *  98 - 105 * Denver Nuggets
+  1066   4/19 1994           Houston Rockets *  80 - 90  * San Antonio Spurs
+  1067   4/19 1994                 Utah Jazz * 115 - 108 * Sacramento Kings
+  1068   4/19 1994       Seattle SuperSonics * 116 - 122 * Phoenix Suns
+  1069   4/20 1994    Minnesota Timberwolves * 101 - 121 * Orlando Magic
+  1070   4/20 1994        Washington Bullets * 111 - 117 * Charlotte Hornets
+  1071   4/20 1994       Cleveland Cavaliers *  98 - 109 * Indiana Pacers
+  1072   4/20 1994           Detroit Pistons *  78 - 103 * Milwaukee Bucks
+  1073   4/20 1994            Denver Nuggets * 100 - 85  * Los Angeles Clippers
+  1074   4/20 1994       Seattle SuperSonics * 112 - 90  * Los Angeles Lakers
+  1075   4/21 1994             Atlanta Hawks *  89 - 94  * Miami Heat
+  1076   4/21 1994        Philadelphia 76ers *  82 - 130 * New York Knicks
+  1077   4/21 1994         Charlotte Hornets *  95 - 89  * Boston Celtics
+  1078   4/21 1994          Dallas Mavericks * 100 - 126 * Houston Rockets
+  1079   4/21 1994    Portland Trail Blazers * 111 - 122 * Utah Jazz
+  1080   4/21 1994          Sacramento Kings *  96 - 121 * Golden State Warriors
+  1081   4/22 1994            Boston Celtics * 104 - 94  * Chicago Bulls
+  1082   4/22 1994           New York Knicks * 125 - 85  * Milwaukee Bucks
+  1083   4/22 1994        Washington Bullets *  96 - 117 * Cleveland Cavaliers
+  1084   4/22 1994        Philadelphia 76ers *  88 - 133 * Indiana Pacers
+  1085   4/22 1994           Houston Rockets *  95 - 107 * Dallas Mavericks
+  1086   4/22 1994                 Utah Jazz * 113 - 106 * Denver Nuggets
+  1087   4/22 1994      Los Angeles Clippers * 121 - 127 * Phoenix Suns
+  1088   4/22 1994    Portland Trail Blazers * 118 - 103 * Minnesota Timberwolves
+  1089   4/22 1994         San Antonio Spurs *  87 - 94  * Seattle SuperSonics
+  1090   4/23 1994           Milwaukee Bucks * 100 - 135 * New Jersey Nets
+  1091   4/23 1994             Orlando Magic *  89 - 93  * Atlanta Hawks
+  1092   4/23 1994           Detroit Pistons * 103 - 108 * Charlotte Hornets
+  1093   4/23 1994                Miami Heat *  81 - 114 * Indiana Pacers
+  1094   4/23 1994        Los Angeles Lakers *  91 - 126 * Golden State Warriors
+  1095   4/23 1994          Sacramento Kings * 100 - 101 * Phoenix Suns
+  1096   4/24 1994           New York Knicks *  92 - 76  * Chicago Bulls
+  1097   4/24 1994           New Jersey Nets *  91 - 120 * Orlando Magic
+  1098   4/24 1994           Detroit Pistons * 102 - 110 * Philadelphia 76ers
+  1099   4/24 1994         Charlotte Hornets *  99 - 117 * Washington Bullets
+  1100   4/24 1994            Boston Celtics *  91 - 117 * Cleveland Cavaliers
+  1101   4/24 1994    Minnesota Timberwolves * 102 - 116 * Dallas Mavericks
+  1102   4/24 1994            Denver Nuggets * 115 - 107 * Houston Rockets
+  1103   4/24 1994         San Antonio Spurs * 112 - 97  * Los Angeles Clippers
+  1104   4/24 1994                 Utah Jazz * 103 - 97  * Los Angeles Lakers
+  1105   4/24 1994     Golden State Warriors *  97 - 105 * Sacramento Kings
+  1106   4/24 1994       Seattle SuperSonics * 110 - 108 * Portland Trail Blazers
+  1107   4/28 1994                Miami Heat *  93 - 88  * Atlanta Hawks
+  1108   4/28 1994            Indiana Pacers *  89 - 88  * Orlando Magic
+  1109   4/28 1994                 Utah Jazz *  89 - 106 * San Antonio Spurs
+  1110   4/28 1994            Denver Nuggets *  82 - 106 * Seattle SuperSonics
+  1111   4/29 1994           New Jersey Nets *  80 - 91  * New York Knicks
+  1112   4/29 1994       Cleveland Cavaliers *  96 - 104 * Chicago Bulls
+  1113   4/29 1994    Portland Trail Blazers * 104 - 114 * Houston Rockets
+  1114   4/29 1994     Golden State Warriors * 104 - 111 * Phoenix Suns
+  1115   4/30 1994                Miami Heat *  86 - 104 * Atlanta Hawks
+  1116   4/30 1994            Indiana Pacers * 103 - 101 * Orlando Magic
+  1117   4/30 1994                 Utah Jazz *  96 - 84  * San Antonio Spurs
+  1118   4/30 1994            Denver Nuggets *  87 - 97  * Seattle SuperSonics
+  1119   5/1  1994           New Jersey Nets *  81 - 90  * New York Knicks
+  1120   5/1  1994       Cleveland Cavaliers *  96 - 105 * Chicago Bulls
+  1121   5/1  1994    Portland Trail Blazers * 104 - 115 * Houston Rockets
+  1122   5/1  1994     Golden State Warriors * 111 - 117 * Phoenix Suns
+  1123   5/2  1994             Orlando Magic *  86 - 99  * Indiana Pacers
+  1124   5/2  1994       Seattle SuperSonics *  93 - 110 * Denver Nuggets
+  1125   5/3  1994             Atlanta Hawks *  86 - 90  * Miami Heat
+  1126   5/3  1994             Chicago Bulls *  95 - 92  * Cleveland Cavaliers
+  1127   5/3  1994         San Antonio Spurs *  72 - 105 * Utah Jazz
+  1128   5/3  1994           Houston Rockets * 115 - 118 * Portland Trail Blazers
+  1129   5/4  1994           New York Knicks *  92 - 93  * New Jersey Nets
+  1130   5/4  1994              Phoenix Suns * 140 - 133 * Golden State Warriors
+  1131   5/5  1994             Atlanta Hawks * 103 - 89  * Miami Heat
+  1132   5/5  1994       Seattle SuperSonics *  85 - 94  * Denver Nuggets
+  1133   5/5  1994         San Antonio Spurs *  90 - 95  * Utah Jazz
+  1134   5/6  1994           New York Knicks * 102 - 92  * New Jersey Nets
+  1135   5/6  1994           Houston Rockets *  92 - 89  * Portland Trail Blazers
+  1136   5/7  1994            Denver Nuggets *  98 - 94  * Seattle SuperSonics
+  1137   5/8  1994             Chicago Bulls *  86 - 90  * New York Knicks
+  1138   5/8  1994                Miami Heat *  91 - 102 * Atlanta Hawks
+  1139   5/8  1994              Phoenix Suns *  91 - 87  * Houston Rockets
+  1140   5/10 1994            Indiana Pacers *  96 - 85  * Atlanta Hawks
+  1141   5/10 1994            Denver Nuggets *  91 - 100 * Utah Jazz
+  1142   5/11 1994             Chicago Bulls *  91 - 96  * New York Knicks
+  1143   5/11 1994              Phoenix Suns * 124 - 117 * Houston Rockets
+  1144   5/12 1994            Indiana Pacers *  69 - 92  * Atlanta Hawks
+  1145   5/12 1994            Denver Nuggets *  94 - 104 * Utah Jazz
+  1146   5/13 1994           New York Knicks * 102 - 104 * Chicago Bulls
+  1147   5/13 1994           Houston Rockets * 118 - 102 * Phoenix Suns
+  1148   5/14 1994             Atlanta Hawks *  81 - 101 * Indiana Pacers
+  1149   5/14 1994                 Utah Jazz * 111 - 109 * Denver Nuggets
+  1150   5/15 1994           New York Knicks *  83 - 95  * Chicago Bulls
+  1151   5/15 1994             Atlanta Hawks *  86 - 102 * Indiana Pacers
+  1152   5/15 1994                 Utah Jazz *  82 - 83  * Denver Nuggets
+  1153   5/15 1994           Houston Rockets * 107 - 96  * Phoenix Suns
+  1154   5/17 1994            Indiana Pacers *  76 - 88  * Atlanta Hawks
+  1155   5/17 1994            Denver Nuggets * 109 - 101 * Utah Jazz
+  1156   5/17 1994              Phoenix Suns *  86 - 109 * Houston Rockets
+  1157   5/18 1994             Chicago Bulls *  86 - 87  * New York Knicks
+  1158   5/19 1994             Atlanta Hawks *  79 - 98  * Indiana Pacers
+  1159   5/19 1994                 Utah Jazz *  91 - 94  * Denver Nuggets
+  1160   5/19 1994           Houston Rockets *  89 - 103 * Phoenix Suns
+  1161   5/20 1994           New York Knicks *  79 - 93  * Chicago Bulls
+  1162   5/21 1994              Phoenix Suns *  94 - 104 * Houston Rockets
+  1163   5/21 1994            Denver Nuggets *  81 - 91  * Utah Jazz
+  1164   5/22 1994             Chicago Bulls *  77 - 87  * New York Knicks
+  1165   5/23 1994                 Utah Jazz *  88 - 100 * Houston Rockets
+  1166   5/24 1994            Indiana Pacers *  89 - 100 * New York Knicks
+  1167   5/25 1994                 Utah Jazz *  99 - 104 * Houston Rockets
+  1168   5/26 1994            Indiana Pacers *  78 - 89  * New York Knicks
+  1169   5/27 1994           Houston Rockets *  86 - 95  * Utah Jazz
+  1170   5/28 1994           New York Knicks *  68 - 88  * Indiana Pacers
+  1171   5/29 1994           Houston Rockets *  80 - 78  * Utah Jazz
+  1172   5/30 1994           New York Knicks *  77 - 83  * Indiana Pacers
+  1173   5/31 1994                 Utah Jazz *  83 - 94  * Houston Rockets
+  1174   6/1  1994            Indiana Pacers *  93 - 86  * New York Knicks
+  1175   6/3  1994           New York Knicks *  98 - 91  * Indiana Pacers
+  1176   6/5  1994            Indiana Pacers *  90 - 94  * New York Knicks
+  1177   6/8  1994           New York Knicks *  78 - 85  * Houston Rockets
+  1178   6/10 1994           New York Knicks *  91 - 83  * Houston Rockets
+  1179   6/12 1994           Houston Rockets *  93 - 89  * New York Knicks
+  1180   6/15 1994           Houston Rockets *  82 - 91  * New York Knicks
+  1181   6/17 1994           Houston Rockets *  84 - 91  * New York Knicks
+  1182   6/19 1994           New York Knicks *  84 - 86  * Houston Rockets
+  1183   6/22 1994           New York Knicks *  84 - 90  * Houston Rockets
