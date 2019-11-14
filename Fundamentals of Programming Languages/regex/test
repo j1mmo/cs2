@@ -1,0 +1,9 @@
+
+<line> ::= <comment>
+<start_line> ::= ([0-9])+
+<white_space> ::= (" ")+
+<new_line> ::= "\n"
+<comment> ::= <start_line> <white_space> <rem> <string> <new_line>
+<rem> ::= "REM" | "rem"
+<string> ::= ([0-9] [a-z])+
+<keyword> ::= ([a-z])
