@@ -1,0 +1,26 @@
+drop table orders;
+drop table cust;
+drop table orderline;
+CREATE TABLE cust
+  (
+    refno   CHAR(4),
+    name    VARCHAR2(20),
+    address VARCHAR2(50),
+    area    VARCHAR2(15)
+  );
+alter table cust
+modify refno char(4) primary key;
+create table orders(
+    OrderNo number,
+    OrderDate date default sysdate,
+    CustomerID char(4) not null,
+    primary key(OrderNo),
+    foreign key(customerID) references cust(refno)
+);
+create table orderline(
+    OrderNo number,
+    ProductId number not null,
+    Quantity number Check ((Quantity != 0) and (Quantity < 100)),
+    primary key(orderNo, productid),
+    foreign key(orderno)references orders(orderno)
+);
