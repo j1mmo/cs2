@@ -43,5 +43,11 @@ public class Node {
             return this.next.findIndex(index - 1);
         }
     }
-    
+    public Node findNodeBook(String isbn){
+        if(book == null||book.getIsbn().equals(isbn)){
+            return this;
+        }else{
+            return prev.findNodeBook(isbn);
+        }
+    }
 }
