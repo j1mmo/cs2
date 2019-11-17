@@ -3,7 +3,7 @@ package ads2library;
 //You MUST use doubly linked list for this implementation. You also need to use 
 //tail recursion when traversaling through the list. 
 //You may need to include some sub-classes and helper functions in this class.
-public class LinkedList {
+public class LList {
     /**
      * [Task 2_1]
      */
@@ -15,7 +15,7 @@ public class LinkedList {
      * This is your default constructor - initial your object variables 
      * to sensible values for a generic doubly linked list object
      */ 
-    public LinkedList(){
+    public LList(){
         head = new Node(null);
         tail = head;
         n = null;
@@ -84,7 +84,26 @@ public class LinkedList {
      * and the data structure remains unchanged. 
      */
     public boolean DeleteItemByISBN(String isbn){
-        return false;
+        Node book;
+        book = tail.findNodeBook(isbn);
+        if(book == null){
+            return false;
+        }else{
+            book.prev.next = book.next;
+            book.next.prev = book.prev;
+            book.next = null;
+            book.prev = null;
+            return true;
+        }
+        
+    }
+    public Book GetItemByIndex(int index)
+    {
+        Node tracker = head;
+        for(int i  = 0;tracker.next != null && i < index; i++){
+            tracker = tracker.next;
+        }
+        return tracker.book;
     }
 
 }
