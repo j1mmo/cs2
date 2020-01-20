@@ -1,0 +1,22 @@
+Design types:
+  Functional decomposition
+  Feature-oriented decomposition
+  Data-oriented decomposition
+  Process-oriented decomposition
+  Event-oriented decomposition
+  Object-oriented decomposition
+Relationship with Meeting Scheduler:
+
+Functional:
+
+Breaking up the procedures into individual steps that are easy to understand.
+
+Feature-oriented:
+
+A feature is a unit of functionality of a software system that satisfies a requirement, these are different from functionality as they are more user based interactions
+examples:
+Creating a calender - this does not perform a functionality by itself but is a 'feature' which is used to make a functionality
+
+Data-orientated:
+
+Organisation of a program based upon the information that is inside the system rather than contructing models and objects that 
